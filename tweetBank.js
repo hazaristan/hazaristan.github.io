@@ -1,5 +1,5 @@
-let english = [`Please help this project and send your text in our Telegram group`
+let english = [`This project is still under development$coming soon ...`
 ]
 
-let farsi = [`لطفا به این پروژه کمک کنید و متن خود را در گروه تلگرام ما ارسال کنید`
+let farsi = [`یک پروژه کوچک با هدف حمایت از کمپین نه به نسل کشی هزاره$این پروژه نیاز به کمک و همکاری همه هموطنا داره برای اطلاعات بیشتر و همکاری وارد گروه تلگراممون بشین$همچنین خوشحال میشیم اگه این پروژه رو به دوستاتون معرفی کنین`
 ]
