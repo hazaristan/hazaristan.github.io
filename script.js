@@ -48,17 +48,20 @@ function langSwitch(text) {
 
 // sharing text in twitter
 function shareTweet() {
-  window.open(`https://twitter.com/intent/tweet?text=${p.innerText}%0a&hashtags=StopHazaraGenocide `)
+  window.open(`https://twitter.com/intent/tweet?text=${finallyText}%0a&hashtags=StopHazaraGenocide `)
 }
 
 // get new text for hashtag
 let Text4hashtag = ''
+let finallyText = ''
 function addTweet() {
   if (isLanguage === 'farsi') {
     Text4hashtag = farsi[Math.floor(Math.random() * farsi.length)]
   } else if (isLanguage === 'english') {
     Text4hashtag = english[Math.floor(Math.random() * english.length)]
   }
+  finallyText = Text4hashtag.replaceAll('$','%0a')
+  Text4hashtag = Text4hashtag.replaceAll('$','<br>')
   p.innerHTML = Text4hashtag
 }
 addTweet()
