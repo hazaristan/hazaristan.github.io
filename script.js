@@ -65,3 +65,7 @@ function addTweet() {
   p.innerHTML = Text4hashtag
 }
 addTweet()
+
+function goToTelegram() {
+  window.open('https://t.me/text4hashtag')
+}
