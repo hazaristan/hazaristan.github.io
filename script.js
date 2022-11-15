@@ -63,7 +63,7 @@ function addTweet() {
   } else if (isLanguage === 'english') {
     Text4hashtag = english[Math.floor(Math.random() * english.length)]
   }
-  finallyText = 'پروژه تکست فور توئیت با هدف ایجاد یک منبع قوی از توییت های مفهومی برای حمایته کمپین نه به نسل کشی هزاره ایجاد شده%0aوقتایی که برای هشتگ زدن ایده ای نداری این پروژه به کمکت میاد%0aمشارکت و ارسال متن در گروه تلگرام%0a%0ahazaristan.github.io%0at.me/text4hashtag%0a'
+  finallyText = 'پروژه تکست فور هشتگ با هدف ایجاد یک منبع قوی از توییت های مفهومی برای حمایته کمپین نه به نسل کشی هزاره ایجاد شده%0aوقتایی که برای هشتگ زدن ایده ای نداری این پروژه به کمکت میاد%0aمشارکت و ارسال متن در گروه تلگرام%0a%0ahazaristan.github.io%0at.me/text4hashtag%0a'
 //   finallyText = Text4hashtag.replaceAll('$','%0a')
   Text4hashtag = Text4hashtag.replaceAll('$','<br>')
   p.innerHTML = Text4hashtag
