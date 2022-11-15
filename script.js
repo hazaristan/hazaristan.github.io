@@ -1,4 +1,5 @@
 // dark mode and lite mode
+const telegram = document.querySelector('.telegram')
 const darkLite = document.querySelector('.darkLite')
 const language = document.querySelector('.language')
 const tweet = document.querySelector('.tweet')
@@ -10,6 +11,7 @@ const liteColor = '#F5F5F5'
 let isLiteMode = 'on'
 function darkLiteMode() {
   if (isLiteMode === 'on') {
+    telegram.style.backgroundImage = "url('img/telegram-lite.webp')"
     darkLite.style.backgroundImage = "url('img/darklite-lite.webp')"
     language.style.backgroundImage = "url('img/language-lite.webp')"
     tweet.style.backgroundImage = "url('img/tweet-lite.webp')"
@@ -19,6 +21,7 @@ function darkLiteMode() {
     p.style.color = darkColor
     isLiteMode = 'off'
   } else {
+    telegram.style.backgroundImage = "url('img/telegram-dark.webp')"
     darkLite.style.backgroundImage = "url('img/darklite-dark.webp')"
     language.style.backgroundImage = "url('img/language-dark.webp')"
     tweet.style.backgroundImage = "url('img/tweet-dark.webp')"
