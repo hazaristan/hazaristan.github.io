@@ -23,7 +23,7 @@ function darkLiteMode(booleanValue) {
   }
 }
 let isLiteMode = localStorage.getItem('darkLiteMode') === null ? 'on' : localStorage.getItem('darkLiteMode')
-darkLiteMode()
+darkLiteMode(isLiteMode)
 
 // change Language and set text align
 let isLanguage = 'farsi'
