@@ -26,9 +26,9 @@ let isLiteMode = localStorage.getItem('darkLiteMode') === null ? 'on' : localSto
 darkLiteMode(isLiteMode)
 
 // change Language and set text align
-let isLanguage = 'farsi'
 let rtl = ['farsi', 'arabic']
 function changeLanguage(lang) {
+  localStorage.setItem('isLanguage',lang)
   document.querySelector('.lite>.language').innerHTML = isLanguage.slice(0, 2)
   document.querySelector('.dark>.language').innerHTML = isLanguage.slice(0, 2)
   rtl.indexOf(lang) ? p.style.textAlign = 'left' : p.style.textAlign = 'right'
@@ -60,7 +60,8 @@ function addTweet() {
   Text4hashtag = Text4hashtag.replaceAll('$','<br>')
   p.innerHTML = Text4hashtag
 }
-addTweet()
+let isLanguage = localStorage.getItem('isLanguage') === null ? 'farsi' : localStorage.getItem('isLanguage')
+changeLanguage(isLanguage)
 
 function goToTelegram() {
   window.open('https://t.me/text4hashtag')
