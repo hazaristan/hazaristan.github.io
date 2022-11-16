@@ -60,6 +60,14 @@ span{
   cursor: default;
   text-transform: uppercase;
 }
+
+.dark>.language{
+  background-image: url('img/language-lite.webp');
+}
+.lite>.language{
+  background-image: url('img/language-dark.webp');
+}
+
 @media screen and (max-width: 992px) {
   body {
     padding: 110px 80px 0;
