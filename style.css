@@ -43,10 +43,6 @@ p{
   justify-content: center;
 }
 
-.lite{
-  display: none
-}
-
 span{
   height: 50px;
   width: 50px;
@@ -64,14 +60,12 @@ span{
   cursor: default;
   text-transform: uppercase;
 }
-
 .dark>.language{
   background-image: url('img/language-lite.webp');
 }
 .lite>.language{
   background-image: url('img/language-dark.webp');
 }
-
 @media screen and (max-width: 992px) {
   body {
     padding: 110px 80px 0;
