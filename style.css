@@ -43,6 +43,10 @@ p{
   justify-content: center;
 }
 
+.lite{
+  display: none
+}
+
 span{
   height: 50px;
   width: 50px;
