@@ -5,24 +5,24 @@ const h1 = document.querySelector('h1')
 const p = document.querySelector('p')
 const darkColor = '#2B2A33'
 const liteColor = '#F5F5F5'
-let isLiteMode = 'on'
-function darkLiteMode() {
-  if (isLiteMode === 'on') {
+function darkLiteMode(booleanValue) {
+  if (booleanValue === 'on') {
     lite.style.display='none'
     dark.style.display='flex'
     document.body.style.background = liteColor
     h1.style.color = darkColor
     p.style.color = darkColor
-    isLiteMode = 'off'
+    localStorage.setItem('darkLiteMode','on')
   } else {
     dark.style.display='none'
     lite.style.display='flex'
     document.body.style.background = darkColor
     h1.style.color = liteColor
     p.style.color = liteColor
-    isLiteMode = 'on'
+    localStorage.setItem('darkLiteMode','off')
   }
 }
+let isLiteMode = localStorage.getItem('darkLiteMode') === null ? 'on' : localStorage.getItem('darkLiteMode')
 darkLiteMode()
 
 // change Language and set text align
