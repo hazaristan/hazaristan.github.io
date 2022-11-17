@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   border: none;
@@ -7,6 +7,7 @@
   text-decoration: none;
   font-family: 'vazir';
   user-select: none;
+  color: #2B2A33;
 }
 
 @font-face {
@@ -17,6 +18,7 @@
 body {
   transition: .3s;
   padding: 150px 150px 0;
+  background: #F5F5F5;
 }
 
 h1 {
@@ -26,7 +28,7 @@ h1 {
   line-height: 0;
 }
 
-p{
+p {
   transition: color .3s;
   text-align: right;
   margin-top: 80px;
@@ -34,7 +36,7 @@ p{
   line-height: 1.4;
 }
 
-.buttons{
+.buttons {
   position: absolute;
   bottom: 120px;
   left: 0;
@@ -43,14 +45,15 @@ p{
   justify-content: center;
 }
 
-span{
+span {
   height: 50px;
   width: 50px;
   margin: 0 5px;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
 
-.language{
+.language {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -60,25 +63,45 @@ span{
   cursor: default;
   text-transform: uppercase;
 }
-.dark>.language{
+
+.dark>.language {
   background-image: url('img/language-lite.webp');
 }
-.lite>.language{
+
+.lite>.language {
   background-image: url('img/language-dark.webp');
 }
+
+.telegram {
+  transition: color .3s;
+  font-size: 20px;
+  position: absolute;
+  text-align: center;
+  bottom: 50px;
+  left: 0;
+  right: 0;
+}
+
 @media screen and (max-width: 992px) {
   body {
     padding: 110px 80px 0;
   }
-  h1{
+  
+  h1 {
     font-size: 40px;
   }
-  p{
+  
+  p {
     font-size: 28px;
     line-height: 1.5;
   }
-  .buttons{
+  
+  .buttons {
     bottom: 110px;
+  }
+  
+  .telegram {
+    bottom: 40px;
   }
 }
 
@@ -86,14 +109,21 @@ span{
   body {
     padding: 80px 30px 0;
   }
-  h1{
+
+  h1 {
     font-size: 30px;
   }
-  p{
+  
+  p {
     font-size: 25px;
     line-height: 1.6;
   }
-  .buttons{
+  
+  .buttons {
     bottom: 80px;
+  }
+  
+  .telegram {
+    bottom: 30px;
   }
 }
