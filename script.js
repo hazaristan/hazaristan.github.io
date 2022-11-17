@@ -1,6 +1,7 @@
 // dark mode and lite mode
 const lite = document.querySelector('.lite')
 const dark = document.querySelector('.dark')
+const telegram = document.querySelector('.telegram')
 const h1 = document.querySelector('h1')
 const p = document.querySelector('p')
 const darkColor = '#2B2A33'
@@ -10,6 +11,7 @@ function darkLiteMode(booleanValue) {
     lite.style.display='none'
     dark.style.display='flex'
     document.body.style.background = liteColor
+    telegram.style.color = darkColor
     h1.style.color = darkColor
     p.style.color = darkColor
     localStorage.setItem('darkLiteMode','on')
@@ -17,6 +19,7 @@ function darkLiteMode(booleanValue) {
     dark.style.display='none'
     lite.style.display='flex'
     document.body.style.background = darkColor
+    telegram.style.color = liteColor
     h1.style.color = liteColor
     p.style.color = liteColor
     localStorage.setItem('darkLiteMode','off')
@@ -63,6 +66,6 @@ function addTweet() {
 let isLanguage = localStorage.getItem('isLanguage') === null ? 'farsi' : localStorage.getItem('isLanguage')
 changeLanguage(isLanguage)
 
-function goToTelegram() {
-  window.open('https://t.me/text4hashtag')
+function goToTeCooperate() {
+  window.open('cooperate')
 }
