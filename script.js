@@ -52,17 +52,21 @@ function shareTweet() {
 // get new text for hashtag
 let Text4hashtag = ''
 let finallyText = ''
+let numberText
 function addTweet() {
   if (isLanguage === 'farsi') {
-    Text4hashtag = farsi[Math.floor(Math.random() * farsi.length)]
+    numberText = Math.floor(Math.random() * farsi.length)
+    Text4hashtag = farsi[numberText]
   } else if (isLanguage === 'english') {
-    Text4hashtag = english[Math.floor(Math.random() * english.length)]
+    numberText = Math.floor(Math.random() * english.length)
+    Text4hashtag = english[numberText]
   }
     finallyText = Text4hashtag.replaceAll(`
 `,'%0a')
    Text4hashtag = Text4hashtag.replaceAll(`
 `,'<br>')
   p.innerHTML = Text4hashtag
+  telegram.innerHTML = numberText + ' - Telegram'
 }
 let isLanguage = localStorage.getItem('isLanguage') === null ? 'farsi' : localStorage.getItem('isLanguage')
 changeLanguage(isLanguage)
