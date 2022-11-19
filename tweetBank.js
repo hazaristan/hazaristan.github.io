@@ -1,4 +1,4 @@
-let english = [`This project is still under development$coming soon ...`
+let english = [`Be the first to send a text ...`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن$سوگند به شور هزارستان$از راه رفته برنگردم تا روز کوچ غاصبان$سوگند به خون جوانان$سوگند به اشک مادران$هرگز به تیرشان نمیرد فریاد جاودان ما`,
