@@ -7,7 +7,8 @@ such as the attack on a Shia mosque in the eastern city of Gardez, Paktia provin
 August 2018, killing 33 and wounding 94 including children`,
 `In Mirza Walang village in Sar-e-Pool Province, on 05-08-2017, 52 Hazara Civilians killed by Taliban.
 Denying a genocide is part of that genocide.
-@SR_Afghanistan`
+@SR_Afghanistan`,
+`In the present Convention, genocide means any actions which is an intent threat to human beings such as, killing them, hurting their physical or mental healt, putting their life under restrictions and persistancy on changing their belongings. Huh, don't forget  that neglecting all the aspects of genocide is a part of it.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
