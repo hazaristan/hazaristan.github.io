@@ -1,6 +1,7 @@
 const telegram = document.querySelector('.telegram')
 const h1 = document.querySelector('h1')
 const p = document.querySelector('p')
+const span = document.querySelector('span')
 const pForm = document.querySelector('#my-form-status')
 const email = document.querySelector('.email')
 const textarea = document.querySelector('textarea')
@@ -9,12 +10,13 @@ const formDarkColor = '#42414d'
 const darkColor = '#2B2A33'
 const liteColor = '#F5F5F5'
 
+let isLiteMode = localStorage.getItem('darkLiteMode') === null ? 'on' : localStorage.getItem('darkLiteMode')
 function darkLiteMode() {
-  let isLiteMode = localStorage.getItem('darkLiteMode') === null ? 'on' : localStorage.getItem('darkLiteMode')
   if (isLiteMode !== 'on') {
     document.body.style.background = darkColor
     h1.style.color = liteColor
     p.style.color = liteColor
+    span.style.color = liteColor
     pForm.style.color = liteColor
     email.style.color = liteColor
     email.style.background = formDarkColor
@@ -27,6 +29,17 @@ function darkLiteMode() {
 }
 darkLiteMode()
 
+var characterNumber
+function characterLength() {
+  characterNumber = 258 - textarea.value.length
+  span.innerText = 'کاراکتر مجاز : ' + characterNumber
+  if (characterNumber === 0){
+    textarea.style.color = 'red'
+    span.innerText = 'کاراکتر مجاز به پایان رسید'
+  }else{
+    isLiteMode === 'on' ? textarea.style.color = darkColor : textarea.style.color = liteColor
+  }
+}
 
 // formspree code for form 
 var form = document.getElementById("my-form");
