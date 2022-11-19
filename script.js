@@ -58,8 +58,10 @@ function addTweet() {
   } else if (isLanguage === 'english') {
     Text4hashtag = english[Math.floor(Math.random() * english.length)]
   }
-  finallyText = Text4hashtag.replaceAll('$','%0a')
-  Text4hashtag = Text4hashtag.replaceAll('$','<br>')
+    finallyText = Text4hashtag.replaceAll(`
+`,'%0a')
+   Text4hashtag = Text4hashtag.replaceAll(`
+`,'<br>')
   p.innerHTML = Text4hashtag
 }
 let isLanguage = localStorage.getItem('isLanguage') === null ? 'farsi' : localStorage.getItem('isLanguage')
