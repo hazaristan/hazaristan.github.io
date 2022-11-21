@@ -10,14 +10,16 @@
 
 <body>
   <h1>مشارکت</h1>
-  <p>پروژه تکست فور هشتگ با هدف حمایت از کمپین نه به نسل کشی هزاره طراحی شده و بهمون کمک میکنه که توی طوفان های توئیتری متن کم نیاریم ، لطفا شما هم با نوشتن یک متن پیشنهادی مشارکت کنید</p>
-  <span>کاراکتر مجاز 258</span>
-  <form id="my-form" action="https://formspree.io/f/mrgdjowq" method="POST">
+  <p>پروژه تکست فور هشتگ با هدف حمایت از کمپین نه به نسل کشی هزاره طراحی شده و بهمون کمک میکنه که توی طوفان های توئیتری
+    متن کم نیاریم ، لطفا شما هم با نوشتن یک متن پیشنهادی مشارکت کنید</p>
+  <span class="result">کاراکتر مجاز 258</span>
+  <form onsubmit="sendMail();reset();return false">
     <input type="email" name="email" class="email" placeholder="ایمیل (اختیاری)" />
-    <textarea name="message" cols="30" rows="6" maxlength="258" oninput="characterLength()" placeholder="متن پیشنهادی برای کمک به کمپین"></textarea>
-    <button id="my-form-button">ارسال متن</button>
-    <p id="my-form-status"></p>
+    <textarea name="message" cols="30" rows="6" maxlength="258" oninput="characterLength()"
+      placeholder="متن پیشنهادی برای کمک به کمپین"></textarea>
+    <input class="button" type="submit" value="ارسال متن">
   </form>
+  <script src="https://smtpjs.com/v3/smtp.js"></script>
   <script src="script.js"></script>
 </body>
 
