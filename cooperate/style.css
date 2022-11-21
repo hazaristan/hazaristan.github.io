@@ -31,7 +31,7 @@ p{
   margin-bottom: 40px;
 }
 
-input,textarea,button{
+input,textarea,.button{
   border-color: #2B2A33;
   border: 1px solid;
   display: block;
@@ -50,7 +50,7 @@ input,textarea,button{
   text-align: right;
 }
 
-button{
+.button{
   background: #2B2A33;
   color: #F5F5F5;
   font-weight: 500;
@@ -60,7 +60,7 @@ button{
   transition: .3s;
 }
 
-button:hover{
+.button:hover{
   background: #232323;
 }
 
