@@ -34,7 +34,13 @@ function changeLanguage(lang) {
   localStorage.setItem('isLanguage',lang)
   document.querySelector('.lite>.language').innerHTML = isLanguage.slice(0, 2)
   document.querySelector('.dark>.language').innerHTML = isLanguage.slice(0, 2)
-  rtl.indexOf(lang) ? p.style.textAlign = 'left' : p.style.textAlign = 'right'
+  if (rtl.indexOf(lang)){
+    p.style.textAlign = 'left'
+    p.style.direction = 'ltr'
+  }else{
+    p.style.textAlign = 'right'
+    p.style.direction = 'rtl'
+  }
   isLanguage = lang
   addTweet()
 }
