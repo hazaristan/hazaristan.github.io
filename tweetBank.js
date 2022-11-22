@@ -8,7 +8,31 @@ August 2018, killing 33 and wounding 94 including children`,
 `In Mirza Walang village in Sar-e-Pool Province, on 05-08-2017, 52 Hazara Civilians killed by Taliban.
 Denying a genocide is part of that genocide.
 @SR_Afghanistan`,
-`In the present Convention, genocide means any actions which is an intent threat to human beings such as, killing them, hurting their physical or mental healt, putting their life under restrictions and persistancy on changing their belongings. Huh, don't forget  that neglecting all the aspects of genocide is a part of it.`
+`In the present Convention, genocide means any actions which is an intent threat to human beings such as, killing them, hurting their physical or mental health, putting their life under restrictions and persistancy on changing their belongings. Huh, don't forget  that neglecting all the aspects of genocide is a part of it.`,
+`1 April 2015: Abduction On the above date, 13 Hazara civilians were kidnapped in Sare-e-Pul province. Later all of them were released. No one took responsibility for this incident.`,
+`where the number of Hazara people is greater in anywhere, the attack is carried out with the intention to inflict maximum physical harm and disperse the community`,
+`On 1st June 2021, a magnetic bomb targeted a mini-van transport vehicle near Ahlulbait Mosque in Sar-e Kariz area in west of Kabul which is an area that the maximum of the population is Hazara`,
+`On 2nd June 2021, another magnetic bomb targeted a mini-van public transport vehicle in Gulayee Dawa Khana area claiming lives of ten Hazara civilians and wounding`,
+`On 3rd July 2021, a private Town-Ace mini-van was targeted by magnetic bomb in Faiz Muhammad Kateb Road in west of Kabul, killing four Hazara civilians including two women and injuring four others including one woman and one child`,
+`On 28th of March 1999, there was an uprise on Taliban forces for destroying and burning the villages between Sheebar and Bamyan city, including Shashpul and Ahangraan. The commander of the army was Mulla Abdul Wahid Ghourbandi`,
+`The two massacres of civilians described in a report constitute serious violations of international humanitarian law. They raise grave concerns about the security of civilian populations in Taliban-administered areas, particularly Hazaras.`,
+`On January 19, 2001, United Nations Secretary-General Kofi Annan issued a statement expressing concern about “numerous credible reports” that civilians were deliberately targeted and killed in Yakaolang.`,
+`The May 2000 massacre took place near the Robatak pass on the border between Baghlan and Samangan provinces. This incident took 26 Hazara lives whom were from Baghlan`,
+`The massacre in Yakawlang district began on January 7, 2001 and continued for four Days. The Taliban forces killed 300 civilians by shooting in these four days. Also, during house-to-house searching, tens of Hazara people were massacred.`,
+`On 15-17 September the Taliban launched a search in Bamyan villages to find out suspect people. During their search they arrested and killed any male Hazaraa above thirteen. Arrested people were taken to dessert and then assassinated.`,
+`On 8 August, 1998, the fall of Mazar was unfortunately  part of a success that gave the Taliban control of almost every major city and important territory in northern and central Afghanistan which was an opportunity for performing their brutal plans.`,
+`30 April 2022، a Bomb Explosion in a mini-van occurred which as result of it 3 Hazara women passengers were killed and 2 more wounded in West Kabul. The responsibility for the attack remains unclaimed.`,
+`28 April 2022, a Bomb Explosion happened in Balkh province which13 Hazara passengers were killed, and 20 were injured consequently. The IS-K took responsibility for the blast.`,
+`26 April 2022: Armed Attack was put on action which 5 Hazara mine workers were shot dead, and one worker was injured by unknown gunmen in Samangan province, Afghanistan.`,
+`01 April 2022: Suicide Attack On the above date, 10 Hazara were killed and 40 more injured in a bomb explosion in Hazara-populated Jibrael township of Herat province. We were unable to establish  who claimed responsibility for this attack.`,
+`On 01 April 2022, a Summary Execution happened to a Hazara woman and a man named Nafisa Balkhi and Mohammad Ghulami. They were arrested and executed by the Taliban in Mazar-e Sharif for violating the Taliban’s bylaws of gender segregation.!`,
+`On 31 March 2022, Dr Hassan Qanoni, an ethnic Hazara and an ex-military medical doctor, was found dead in Jebrail, Herat. He was abducted three days before, on March 28, 2022. The responsibility for his abduction and death remains unclaimed.`,
+`On 6 March 2022: a Hazara teenage girl’s dead body was found in west Kabul. Based on the report, she was raped before being shot. The responsibility for her death remains unclaimed.`,
+`Two Hazara students named Sharifa and Fatima, aged 16 and 17 were abducted on 26 February 2022 and found dead on 3 March in Shadiyan of Mazar-e Sharif.`,
+`On 25 February 2022: a Hazara man named Azizullah Wafa was found dead in the west of Kabul.`,
+`On 22 January 2022:  6 Hazara people were killed, and 10 more were injured in a bomb explosion in Herat Province.`,
+`On 20 January 2022: Murtaza Sajadi and Ali Sajad Mohammadi, boxer and Muay Thai professionals, respectively, were shot dead by the Taliban in Kabul.`,
+`On 18 January 2022:  The Hazara women's rights activist Hanifa Nazari and a Hazara civil activist Mahdi Wahidi were found dead in Mazar-e Sharif and Baghlan provinces. Mrs. Nazari was a leading organizer of protests against the Taliban in Mazar-e-Sharif.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
