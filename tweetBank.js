@@ -32,7 +32,18 @@ Denying a genocide is part of that genocide.
 `On 25 February 2022: a Hazara man named Azizullah Wafa was found dead in the west of Kabul.`,
 `On 22 January 2022:  6 Hazara people were killed, and 10 more were injured in a bomb explosion in Herat Province.`,
 `On 20 January 2022: Murtaza Sajadi and Ali Sajad Mohammadi, boxer and Muay Thai professionals, respectively, were shot dead by the Taliban in Kabul.`,
-`On 18 January 2022:  The Hazara women's rights activist Hanifa Nazari and a Hazara civil activist Mahdi Wahidi were found dead in Mazar-e Sharif and Baghlan provinces. Mrs. Nazari was a leading organizer of protests against the Taliban in Mazar-e-Sharif.`
+`On 18 January 2022:  The Hazara women's rights activist Hanifa Nazari and a Hazara civil activist Mahdi Wahidi were found dead in Mazar-e Sharif and Baghlan provinces. Mrs. Nazari was a leading organizer of protests against the Taliban in Mazar-e-Sharif.`,
+`A car bomb IED went off at the gate of Sayed ul Shuhada HighSchool ( Hazara-populated school ) in Barchi of Kabul. Two more explosions were set off as the students rushed out of the school. It killed 90 students and wounding 165, mainly school girls.`,
+`On 7 January 2022: the Taliban shot dead a Hazara man named Dr Rajab Jalali and his driver in the Jibrail district of Herat.`,
+`On 14 January 2022: Zainab Abdullahi, a Hazara female traveler was shot dead by a Taliban soldier at a checkpoint in Dasht-e Barchi, Kabul. The Taliban accepted responsibility for the shooting and compensated her family.`,
+`On 11 December 2021: three simultaneous bomb explosions took place in West Kabul, as a result of which 2 Hazara people  were killed and 4 more wounded. IS-K claimed responsibility for the attacks.`,
+`On 19 November 2021: the naked body of a Hazara girl was found in Bamiyan province.
+She was tortured and then shot. The responsibility for her death remains unclaimed.`,
+`On 17 November 2021: 2 Hazaras were killed in a bomb explosion and 5 more wounded in Dasht-e Barchi, Kabul. The wounded medical student Latifa Omidi later died on 17th January.`,
+`On 14 November 2021:  an explosion killed 2 Hazaras in Dasht-e Barchi, Kabul. The responsibility for the attack remains unclaimed.`,
+`On 30 August 2021:13 former security forces of the previous government who belonged to the Hazara ethnic group were summarily executed by the Taliban in Daikundi province after they surrendered. The victims included a 17-year-old girl.`,
+`On 02 June 2021:  Unknown gunmen opened fire and killed 11 Hazara coalminers and murdered them in Dara-i Suf in the northern province of Samangan.`,
+`On 19 May 2021: Taliban singled out three Hazara passengers from a mini-van and shot them dead in the Band-e Bayn area along the Ghor-Herat highway.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
