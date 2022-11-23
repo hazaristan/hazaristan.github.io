@@ -8,7 +8,6 @@ August 2018, killing 33 and wounding 94 including children`,
 `In Mirza Walang village in Sar-e-Pool Province, on 05-08-2017, 52 Hazara Civilians killed by Taliban.
 Denying a genocide is part of that genocide.
 @SR_Afghanistan`,
-`In the present Convention, genocide means any actions which is an intent threat to human beings such as, killing them, hurting their physical or mental health, putting their life under restrictions and persistancy on changing their belongings. Huh, don't forget  that neglecting all the aspects of genocide is a part of it.`,
 `1 April 2015: Abduction On the above date, 13 Hazara civilians were kidnapped in Sare-e-Pul province. Later all of them were released. No one took responsibility for this incident.`,
 `where the number of Hazara people is greater in anywhere, the attack is carried out with the intention to inflict maximum physical harm and disperse the community`,
 `On 1st June 2021, a magnetic bomb targeted a mini-van transport vehicle near Ahlulbait Mosque in Sar-e Kariz area in west of Kabul which is an area that the maximum of the population is Hazara`,
