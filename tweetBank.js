@@ -60,7 +60,16 @@ She was tortured and then shot. The responsibility for her death remains unclaim
 `On 15 August 2018: A suicide bomber targeted Mawoud Educational Center in the Hazara-populated Dasht-e-Barchi of Kabul, killing at least 50 students, aged 10 to 18, and wounding 67. ISKP claimed responsibility for the attack.`,
 `On 22 April 2018: A suicide bomber detonated explosives at a Tazkira registration center in Dasht-e Barchi of Kabul, killing 69 and wounding 120 Hazaras who were registering for an upcoming parliamentary election`,
 `On 21 March 2018: A suicide attack bomber below himself off during the Nawruz Festival in Hazara populated Karta-e Sakhi area in kabul that killed 33 Hazara and injured another 65. ISKP claimed responsibility.`,
-`On 9 March 2018: A suicide targeted a Hazara gathering on the occasion of commemoration of ABDUL ALI MAZARI, a slain Hazara political leader in Kabul. At least seven people in that attack was killed.`
+`On 9 March 2018: A suicide targeted a Hazara gathering on the occasion of commemoration of ABDUL ALI MAZARI, a slain Hazara political leader in Kabul. At least seven people in that attack was killed.`,
+`On 28 December 2017: A suicide bomber detonated explosives near a cultural center in Dasht-e Barchi of Kabul that belonged to the Hazara ethnicity, killing 52 men and women and injuring over 90. ISIL claimed responsibility.`,
+`On 20 October 2017: An unknown gunman opened fire at a mosque, while the second one detonated his explosive at Imam Zaman Mosque in Dasht-e Barchi. At least 40 men and women were killed and over 50 were injured. ISIL claimed responsibility`,
+`On 25 August 2017: first group of attackers detonated explosives and another group went up to the second floor and opened fire at the worshipers, killing 28 people and wounding over 90 Hazaras in Qala-yi Najjara in Kabul. 
+ISIL claimed responsibility`,
+`On 3 - 05 August 2017: Over 800 ISKP and the Taliban militants attacked Mirza Olang, a Hazara village in the mountains of Sari Pul province in the north of Afghanistan, killing and dismembering more than 50 civilians including women and children`,
+`On 1 August 2017: A suicide bomber broke into Jawadia Mosque in western Herat and detonated his explosives. Following that, another gunman opened fire at worshipers. At least 29 people were killed and 64 wounded in this targeted attack.`,
+`On January 2017: Unknown men took 14 Hazara as hostages in Tala-wa-Barfak District of Baghlan province and massacred all of them later.`,
+`On 21 November 2016: A suicide bomber targeted Baqer ul-Uloom Mosque in the Hazara-populated western part of Kabul, killing 33 and wounding 64 Hazara worshippers. ISKP claimed responsibility for the attack.`,
+`On 12 October 2016:  A roadside IED targeted Ashura procession in Balkh province, killing 14 Hazara and wounding 70 others. ISKP claimed responsibility for the attack.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
