@@ -109,7 +109,8 @@ such, Hazara in Afghanistan are at risk of genocide.`,
 `One of the written submissions indicated that "for more than a hundred years, regimes in Afghanistan have not only banned Hazara from speaking out about their historical massacre, they aren't even allowed to their human rights."`,
 `Risk factor 10.2 refers to the targeted physical elimination.
 This is visible in the targeted attacks, and especially bombings, in Hazara neighbourhoods, and on schools, mosques, hospitals, maternity wards.`,
-`Risk factor 9.6 concerns the ‘lack of national mechanisms or initiatives to deal with identity-based tensions or conflict.’  Despite the decades of persecution against the Hazara, there have been no investigations and prosecutions of the crimes`
+`Risk factor 9.6 concerns the ‘lack of national mechanisms or initiatives to deal with identity-based tensions or conflict.’  Despite the decades of persecution against the Hazara, there have been no investigations and prosecutions of the crimes`,
+`Hazara people are the most underprivileged citizens of Afghanistan since they have been under systematic discrimination. They aren't only allowed to do politics, but not being able to attend to school.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
@@ -199,5 +200,7 @@ let farsi = [`سوگند به عاشقان این وطن
 `هیچوقت معجزه رخ نمیده برای آینده ای بهتر فقط باید تلاش کرد
 باید کنار هم بود ، باید ایستادگی کرد ، باید هرکای کرد
 فقط نباید سکوت کرد ...
-نه به نسل کشی هزاره`
+نه به نسل کشی هزاره`,
+`مردم هزاره از فرودست ترین شهروندان افغانستان هستند چون سالهاست بصورت سیستماتیک مورد تبعیض قرار میگیرند
+آنها نه تنها اجازه ی مشارکت در مسائل سیاسی کشور را ندارند بلکه حتی اجازه ی درس خواندن را هم ندارند`
 ]
