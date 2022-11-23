@@ -84,7 +84,18 @@ ISIL claimed responsibility`,
 `On 12 May 2014: Kuchi Attack was on the above date. 3 Hazara villagers were killed in Behsud district of Maidan Wardak province by Pashtun nomads.`,
 `On 14 April 2014: 4 Hazara travelers were killed in Ajristan district of Ghazni province. The Taliban took the responsibility for this incident.`,
 `On 24 March 2013: 13 Hazara travelers were shot dead in Jalrez district of Maidan Wardak province while traveling. No one took responsibility for this incident.`,
-`On 7 June 2012: Kuchi Attack On the above date occured. 3 Hazara were killed in Behsud district of Maidan Wardak province and around 4000 people were displaced by Pashtun nomads.`
+`On 7 June 2012: Kuchi Attack On the above date occured. 3 Hazara were killed in Behsud district of Maidan Wardak province and around 4000 people were displaced by Pashtun nomads.`,
+`On 6 December 2011: 5 Shiite civilians were killed in Kandahar province. The Lashkar-e Jhangvi took the responsibility for this incident.`,
+`On 6 December 2011: Hazara Shias were attacked in the city of Mazar-i Sharif as they were mourning the Ashura, killing at least 4 and wounding at least 17.The Lashkar-e-Jhangvi took the responsibility for this incident.`,
+`On 6 December 2011: Hazara Shia worshippers were targeted by a suicide attack as they were mourning the Ashura in Murad Khani at Abul Fazl Shrine in Kabul, killing 54 and wounding 150 more.`,
+`On 18 June 2011: Kuchi Attack On the above date occured.  24 villages in Nawur district of Ghazni province were displaced by Pashtun nomads.`,
+`On 7 June 2011: 1 Hazara political member was killed in Siagerd district of Parwan province. The Taliban took the responsibility for this incident.`,
+`On 1 June 2010:  9 Hazara were killed in Uruzgan Khas district of Uruzgan province. No one took responsibility for this incident`,
+`On 16 May 2010:  more than 600 people were displaced in Behsud district of Wardak province by Pashtun nomads.`,
+`The Hazara in Afghanistan are at serious risk of genocide. Taliban and IS-K are the main organizers of these explosions.`,
+`Intention behind these attacks is not only to kill its youth, and to inable the future of a community. But, by force displacement a vulnerable condition is created where the Hazara community will not thrive and prosper in the long term.`,
+`"Hazara are not Moslems. You can kill them. It's not a sin."
+ said by Mullah Abdul Manan, former spokesman of Taliban.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
