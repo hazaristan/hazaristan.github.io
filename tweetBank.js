@@ -110,7 +110,21 @@ such, Hazara in Afghanistan are at risk of genocide.`,
 `Risk factor 10.2 refers to the targeted physical elimination.
 This is visible in the targeted attacks, and especially bombings, in Hazara neighbourhoods, and on schools, mosques, hospitals, maternity wards.`,
 `Risk factor 9.6 concerns the ‘lack of national mechanisms or initiatives to deal with identity-based tensions or conflict.’  Despite the decades of persecution against the Hazara, there have been no investigations and prosecutions of the crimes`,
-`Hazara people are the most underprivileged citizens of Afghanistan since they have been under systematic discrimination. They aren't only allowed to do politics, but not being able to attend to school.`
+`Hazara people are the most underprivileged citizens of Afghanistan since they have been under systematic discrimination. They aren't only allowed to do politics, but not being able to attend to school.`,
+`Dr Chiovenda submitted in her written evidence that Until 2002, [Hazara] had largely been excluded from governmental positions and educational opportunities which It's still in progress under the Taliban rules as none of the current 53 minister is Hazara.`,
+`Prof. Stanton noted in his oral testimony that ‘the organisation that had been used against Hazara was a typical terrorist organisation. But unfortunately under the Taliban, it is actually a state organisation, ongoing persecution by the Taliban and by IS-K`,
+`Evidence suggests that the Hazara have been excluded from various basic services for many years. Initially, the nationa electricity line was meant to run through a Hazara area, but the plan had changed since it was a Hazara-populated area.`,
+`To date, none of the crimes carried out against Hazara has been investigated. None of the perpetrators have been charged and no actions towards justice for victims and families has been pursued.`,
+`Risk factor 9.2 concerns the denial of the existence of protected groups or recognition of elements of their identity, as it is being done on Hazaras.`,
+`Hazara people have been living in a context of social discrimination, political marginalisation and genocide since 1890, when Emir Abdur Rahman Khan conquered the lands of Hazaristan with unprecedented violence and eliminated about 62% of the population.`,
+`The trend of excluding Hazara from important governmental positions continues now under the Taliban rule as ‘none of the Taliban’s current 53 ministers is a Hazara.`,
+`Many Hazara policewomen in Afghanistan were persecuted and disappeared in an unusual way.`,
+`Taliban have forcibly displaced hundreds of Hazara families from their homes and lands in Day Kundi, Ghor, Behsud and are facilitating the illegal seizure of Hazaristan regions by the Pashtun nomads.`,
+`The practice of forced displacement is yet another crime that has been used against the Hazara community for centuries.`,
+`In October 2021, Human Rights Watch reported that the Taliban and associated militias forcibly evicted hundreds of Hazara families from the Southern Helmand province and the northern Balkh province.`,
+`Dr.Melissa, professor of anthropology noted that after August 2021, the Taliban have instated forced evictions and ethnic cleansing of Hazara and others opposing their government in several areas of Afghanistan including Daikundi, and Uruzgan.`,
+`The forced relocation of thousands of Hazaras and [Shias] to various provinces and their expulsion from their ancestral homelands resumed in the months after the Taliban took control of Afghanistan in 2021`,
+`The Taliban takeover in August 2021 was followed by the forcible displacement of Hazara people.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
