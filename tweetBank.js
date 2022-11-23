@@ -69,7 +69,22 @@ ISIL claimed responsibility`,
 `On 1 August 2017: A suicide bomber broke into Jawadia Mosque in western Herat and detonated his explosives. Following that, another gunman opened fire at worshipers. At least 29 people were killed and 64 wounded in this targeted attack.`,
 `On January 2017: Unknown men took 14 Hazara as hostages in Tala-wa-Barfak District of Baghlan province and massacred all of them later.`,
 `On 21 November 2016: A suicide bomber targeted Baqer ul-Uloom Mosque in the Hazara-populated western part of Kabul, killing 33 and wounding 64 Hazara worshippers. ISKP claimed responsibility for the attack.`,
-`On 12 October 2016:  A roadside IED targeted Ashura procession in Balkh province, killing 14 Hazara and wounding 70 others. ISKP claimed responsibility for the attack.`
+`On 12 October 2016:  A roadside IED targeted Ashura procession in Balkh province, killing 14 Hazara and wounding 70 others. ISKP claimed responsibility for the attack.`,
+`On 11 October 2016: Gunmen disguised in police uniforms attacked a religious ceremony in Kart-e-Sakhi the neighborhood of Kabul, killing 18 Hazara, including women and children, and wounding 58 others.`,
+`On 23 July 2016:  Twin suicide attacks targeted a peaceful demonstration by the Hazaras in the capital of Kabul, killing at least 84 and wounding at least 283 Hazara protesters. ISKP claimed responsibility.`,
+`On 9 November 2015: 23 Hazara passengers were taken as hostage along Kabul-Kandahar Highway, of whom seven men and women including the 9-year-old girl named Shokria Tabbasum were brutally beheaded.`,
+`On 30 March 2015: 4 Hazara civilians were kidnapped in Balkh province. No one took responsibility for this incident.`,
+`On 26 March 2015: 20 Hazara civilians were kidnapped in the Kejran district of Daikundi province. The Taliban took the responsibility for this incident.`,
+`On 16 March 2015:  6 Hazara civilians were kidnapped in the Farah province by unknown insurgents. No one took responsibility for this incident.`,
+`On 23 February 2015, 10 Hazara civilians were kidnapped in the Qarabagh district of Ghazni province. Later, 9 of them reportedly were released and 1 of them was killed. No one took responsibility for this incident.`,
+`On 23 February 2015: 31 Hazara travelers were kidnapped in Zabul province. Later on 19 of them were released and 7 of them were killed in Zabul. No one took responsibility for this incident.`,
+`On September 2014: 1 Hazara traveler was kidnapped and then killed in Jaghori district of Ghazni province. The Taliban took the responsibility for this incident.`,
+`On 25 July 2014: 14 Hazara travelers were killed in Ghor province by unknown gunmen. No one took responsibility for this incident.`,
+`On July 2014: Armed Attack On the above date happened.15 Hazara travelers were killed on a highway to Kabul. The Taliban took the responsibility for this incident.`,
+`On 12 May 2014: Kuchi Attack was on the above date. 3 Hazara villagers were killed in Behsud district of Maidan Wardak province by Pashtun nomads.`,
+`On 14 April 2014: 4 Hazara travelers were killed in Ajristan district of Ghazni province. The Taliban took the responsibility for this incident.`,
+`On 24 March 2013: 13 Hazara travelers were shot dead in Jalrez district of Maidan Wardak province while traveling. No one took responsibility for this incident.`,
+`On 7 June 2012: Kuchi Attack On the above date occured. 3 Hazara were killed in Behsud district of Maidan Wardak province and around 4000 people were displaced by Pashtun nomads.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
