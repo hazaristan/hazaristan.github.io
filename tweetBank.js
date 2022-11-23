@@ -95,7 +95,21 @@ ISIL claimed responsibility`,
 `The Hazara in Afghanistan are at serious risk of genocide. Taliban and IS-K are the main organizers of these explosions.`,
 `Intention behind these attacks is not only to kill its youth, and to inable the future of a community. But, by force displacement a vulnerable condition is created where the Hazara community will not thrive and prosper in the long term.`,
 `"Hazara are not Moslems. You can kill them. It's not a sin."
- said by Mullah Abdul Manan, former spokesman of Taliban.`
+said by Mullah Abdul Manan, former spokesman of Taliban.`,
+`Risk factor 10.3 concerns: "widespread or systematic discriminatory or targeted practices or violence against the lives, freedom or physical and moral integrity of protected group." It really refers to Hazara situation.`,
+`In the present Convention, genocide means any actions which is an intent threat to human beings such as, killing them, hurting their physical or mental health, putting their life under restrictions.NEGLECTING all the aspects of genocide is a part of it.`,
+`Specific intent to destroy in whole or in part is often considered as one of the most difficult elements of the legal definition of genocide, in which is going on Hazaras.`,
+`Dr Chiovenda testified in the oral hearing: "I have concerns that Hazara have been experiencing  structural violence and systematic exclusion. This may also be left out and more impacted by the humanitarian crisis.`,
+`As emphasised by Hussain, Hussein, and Rezaee in their written submissions, "in June 2021, Taliban searched room to room and were only killing Hazara workers while leaving other ethnic employees unharmed.`,
+`Chapter II, Sections 1 and 2.1., demonstrates that the Hazara community has been subjected to mass killing, and especially in bombings targeting schools and hospitals in predominately Hazara neighbourhoods and mosques attended by Hazara Shias.`,
+`In 23 May 2022,Prof. Gregory Stanton in his oral testimony added that ‘all of the basic factors that lead to genocide are present in these massacres of Hazaras.`,
+`The analysis suggests that many of the risk factors of genocide are present. As 
+such, Hazara in Afghanistan are at risk of genocide.`,
+`Risk factor 10.4 refers to the development of policies or measures that seriously affect the reproductive rights of women or that contemplate the separation or forcible transfer of children belonging to protected group.`,
+`One of the written submissions indicated that "for more than a hundred years, regimes in Afghanistan have not only banned Hazara from speaking out about their historical massacre, they aren't even allowed to their human rights."`,
+`Risk factor 10.2 refers to the targeted physical elimination.
+This is visible in the targeted attacks, and especially bombings, in Hazara neighbourhoods, and on schools, mosques, hospitals, maternity wards.`,
+`Risk factor 9.6 concerns the ‘lack of national mechanisms or initiatives to deal with identity-based tensions or conflict.’  Despite the decades of persecution against the Hazara, there have been no investigations and prosecutions of the crimes`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
