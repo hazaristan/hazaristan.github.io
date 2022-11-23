@@ -43,7 +43,25 @@ She was tortured and then shot. The responsibility for her death remains unclaim
 `On 14 November 2021:  an explosion killed 2 Hazaras in Dasht-e Barchi, Kabul. The responsibility for the attack remains unclaimed.`,
 `On 30 August 2021:13 former security forces of the previous government who belonged to the Hazara ethnic group were summarily executed by the Taliban in Daikundi province after they surrendered. The victims included a 17-year-old girl.`,
 `On 02 June 2021:  Unknown gunmen opened fire and killed 11 Hazara coalminers and murdered them in Dara-i Suf in the northern province of Samangan.`,
-`On 19 May 2021: Taliban singled out three Hazara passengers from a mini-van and shot them dead in the Band-e Bayn area along the Ghor-Herat highway.`
+`On 19 May 2021: Taliban singled out three Hazara passengers from a mini-van and shot them dead in the Band-e Bayn area along the Ghor-Herat highway.`,
+`On 21 April 2021:  Taliban militants opened fire and killed four Hazara civilians in Dawlatyar district of the western Ghor province.`,
+`On 4 March 2021:  Unknown gunmen murdered seven Hazara workers in the Nangarhar province. Local security officials blamed ISKP for it.`,
+`On 29 January 2021: Government security forces opened fire on peaceful Hazara protesters in Maidan Wardak that killed 11 people and wounded 31. It was a deliberate and direct attack against the Hazara, the perpetrators were  not held accountable.`,
+`On 24 November 2020: A twin roadside bomb explosion killed 14 Hazara men and women and wounded another 45 of them in Bamiyan province. Later, when two men were arrested in association with these incidents, they claimed to be Taliban members.`,
+`On 24 Ocotber 2020: A suicide bombing exploded at Kawsar-e-Danish, an educational institution in Dasht-e-Barchi of Kabul, killing at least 30 students, mostly aged 13 to 16, and wounding 70 others. The ISKP claimed responsibility for the attack.`,
+`On 12 May 2020: Three gunmen broke into an MSF-run maternity hospital in Dasht-e-Barchi of Kabul and killed 24 ethnic Hazara mothers, newborn babies, and hospital staff. The ISKP claimed its responsibility.`,
+`On 6 March 2020:  Unknown gunmen opened fire at a gathering during the 25th assassination anniversary of ABDUL ALI MAZARI, killing over 30 people and wounding  81 men and women in Dashte Barchi of Kabul. ISKP claimed responsibility.`,
+`On 2 September 2019: Abdul Samad Amiri, the acting provincial Director of Afghanistan Independent Human Rights Commission, was kidnapped by the Taliban in the western Ghor province and was shot dead two days later on September 4.`,
+`On 17 August 2019: A Hazara wedding party in Kabul was targeted by ISKP in which at least 63 people were killed and more than 200 were injured. Hazara young, children, men, and women were included.`,
+`On 21 March 2019: A remote-controlled bomb killed six ethnic Hazara and wounded 23 others during the Nawroz festival in Kart-e-Sakhi neighborhood of the capital Kabul. The ISKP claimed responsibility for the attack.`,
+`On 9 November 2018:  Taliban attacked Malistan district of Ghazni, and killed 11 Hazara civilians.`,
+`On 6 November 2018: Taliban attacked Jaghori district of Ghazni, and 50 Hazara civilians were killed.`,
+`On 10 October 2018: Taliban attacked an anti-Taliban Hazara commander in Urozgan Khas. According to the Office of High Commissioner for Human Rights, over 100 Hazaras were killed, seven injured, and dozens of Hazara families were displaced.`,
+`On 5 September 2018: Twin suicide bombers targeted a wrestling club in Dasht-e-Barchi, Kabul, killing 35 and wounding 95. The ISKP claimed responsibility for the attack.`,
+`On 15 August 2018: A suicide bomber targeted Mawoud Educational Center in the Hazara-populated Dasht-e-Barchi of Kabul, killing at least 50 students, aged 10 to 18, and wounding 67. ISKP claimed responsibility for the attack.`,
+`On 22 April 2018: A suicide bomber detonated explosives at a Tazkira registration center in Dasht-e Barchi of Kabul, killing 69 and wounding 120 Hazaras who were registering for an upcoming parliamentary election`,
+`On 21 March 2018: A suicide attack bomber below himself off during the Nawruz Festival in Hazara populated Karta-e Sakhi area in kabul that killed 33 Hazara and injured another 65. ISKP claimed responsibility.`,
+`On 9 March 2018: A suicide targeted a Hazara gathering on the occasion of commemoration of ABDUL ALI MAZARI, a slain Hazara political leader in Kabul. At least seven people in that attack was killed.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
