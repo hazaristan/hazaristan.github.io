@@ -127,7 +127,11 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `The Taliban takeover in August 2021 was followed by the forcible displacement of Hazara people.`,
 `Taliban are carrying genocide and systematic crimes against ethnic and religious minorities, women, humanity, journalists, and girl's school. The explosion outside a school in west Kabul is an incident which the students were mostly Hazara girls.`,
 `Journalists also have come under increasing attacks. Local Taliban leaders circulate hit lists and threaten reporters and their families. In March 2021, IS-K killed 3 female journalists. They have forced many reporters to go into hiding or flee the country.`,
-`This is particularly the case during the Hazara genocide of the late 1800s, when Hazara women and girls were enslaved, and many were raped. Still, since the Taliban takeover, the humanitarian situation only has deteriorated for the Hazara in Afghanistan.`
+`This is particularly the case during the Hazara genocide of the late 1800s, when Hazara women and girls were enslaved, and many were raped. Still, since the Taliban takeover, the humanitarian situation only has deteriorated for the Hazara in Afghanistan.`,
+`The strategies and tactics the Amir employed during the 1891–93 Hazara War clearly demonstrate that he was seeking to neutralise the Hazaras, politically, economically and socially as a distinctive ethnic group.`,
+`The mass killing, enslavement, destruction and displacement that occurred during the war by Amir Abdul Rahman can best be considered as the prime example of genocide in the history of modern Afghanistan.`,
+`In Uruzgan, just 60 families survived from Sultan Ahmad powerful tribe, while it constituted 3000 families. This extent of the destruction and killing in Hazaristan was documented by the Amir's own officials.`,
+`In addition to those who fled, a large number of Hazaras were sold as slaves in a burgeoning trade that was officially taxed and sanctioned by the Afghan state`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
