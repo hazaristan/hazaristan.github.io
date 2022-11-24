@@ -124,7 +124,10 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `In October 2021, Human Rights Watch reported that the Taliban and associated militias forcibly evicted hundreds of Hazara families from the Southern Helmand province and the northern Balkh province.`,
 `Dr.Melissa, professor of anthropology noted that after August 2021, the Taliban have instated forced evictions and ethnic cleansing of Hazara and others opposing their government in several areas of Afghanistan including Daikundi, and Uruzgan.`,
 `The forced relocation of thousands of Hazaras and [Shias] to various provinces and their expulsion from their ancestral homelands resumed in the months after the Taliban took control of Afghanistan in 2021`,
-`The Taliban takeover in August 2021 was followed by the forcible displacement of Hazara people.`
+`The Taliban takeover in August 2021 was followed by the forcible displacement of Hazara people.`,
+`Taliban are carrying genocide and systematic crimes against ethnic and religious minorities, women, humanity, journalists, and girl's school. The explosion outside a school in west Kabul is an incident which the students were mostly Hazara girls.`,
+`Journalists also have come under increasing attacks. Local Taliban leaders circulate hit lists and threaten reporters and their families. In March 2021, IS-K killed 3 female journalists. They have forced many reporters to go into hiding or flee the country.`,
+`This is particularly the case during the Hazara genocide of the late 1800s, when Hazara women and girls were enslaved, and many were raped. Still, since the Taliban takeover, the humanitarian situation only has deteriorated for the Hazara in Afghanistan.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
