@@ -131,7 +131,17 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `The strategies and tactics the Amir employed during the 1891–93 Hazara War clearly demonstrate that he was seeking to neutralise the Hazaras, politically, economically and socially as a distinctive ethnic group.`,
 `The mass killing, enslavement, destruction and displacement that occurred during the war by Amir Abdul Rahman can best be considered as the prime example of genocide in the history of modern Afghanistan.`,
 `In Uruzgan, just 60 families survived from Sultan Ahmad powerful tribe, while it constituted 3000 families. This extent of the destruction and killing in Hazaristan was documented by the Amir's own officials.`,
-`In addition to those who fled, a large number of Hazaras were sold as slaves in a burgeoning trade that was officially taxed and sanctioned by the Afghan state`
+`In addition to those who fled, a large number of Hazaras were sold as slaves in a burgeoning trade that was officially taxed and sanctioned by the Afghan state`,
+`We have witnessed the massacre of Hazaras many times. DAYKUNDI is an obvious example of the massacre in the last few days. Killing 12 members of a family for NO REASON!`,
+`Despite promises to protect the Hazaras from threats, the Taliban have committed targeted attacks and have forcibly displaced thousands of Hazara civilians. DAYKUNDI is a recent example that they killed 12 members of a family.`,
+`The Hazara community is experiencing increasing and widespread attacks alongside a history of persecution. Recently, Taliban killed all the members of a family including women and children in DAYKUNDI`,
+`The situation of the Hazara in Afghanistan will not improve without the international community putting pressure on the Taliban to act to protect the community. Otherwise Taliban will continue killing Hazaras as they did In DAYKUNDI 3 days ago.`,
+`Despite the political and cultural openings in Afghanistan after 2001, the Hazaras faced continued discrimination and new types of violence from Talliban. DAYKUNDI has faced the most terrible violence 3 days ago.`,
+`Hazaras commonly believe that they lost more than 62 percent of their population between 1891 and 1893. But now, it is being repeated again by Taliban. Daykundi was the last victim and that would not be the last, too.`,
+`Women and girls especially have suffered systematic attacks on their rights under the Taliban. All the demonstrations were held by women in Afghanistan because of their rights. But they were ignored!`,
+`The Taliban have failed to provide protection for the Hazaras. Actually, They themselves tried to kill the innocent people. On 24th Nov. 2022, Around 12 people were killed by Taliban in DAYKUNDI.`,
+`The Taliban have forcibly displaced thousands of Hazaras from their ancestral lands across the country . The examples are the last happenings in Daykundi. 11 were killed, one was beheaded and the next day six people were arrested by Taliban.`,
+`None of the crimes carried out against Hazaras have been investigated. None of the perpetrators have been arrested or brought to justice. No compensation for victims and their families has been paid.  And again, the same thing is going on in DAYKUNDI province.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
@@ -238,5 +248,10 @@ let farsi = [`سوگند به عاشقان این وطن
 `میترسن از روزی که ما متحد بشیم
 بیاین کاری کنیم از ترس بمیرن
 نسل کشی هزاره باید متوقف بشه`,
-`ما فقط خودمونو داریم و همینم کافیه`
+`ما فقط خودمونو داریم و همینم کافیه`,
+`برای زندگی کردن در این گوشه دنیا، آدم باید از فولاد باشد تا دوام بیاورد...
+اینجا افغانستان است برای هزاره ها زندگی اینجا مرگ تدیجی ست
+نسل کشی هزاره رو متوقف کنید`,
+`طالبان در دایکندی از مجموع 11 نفر، یک نفر را سربریده و متباقی را پس از بازداشت و شکنجه تیرباران کرده‌اند. از سرنوشت بازداشت‌شدگان هم خبری نیست.
+طالبان پس از قتل‌عام به‌کسی در روستای سیوک شیبر اجازه‌ی تماس، تصویربرداری و عبورومرور را نمی‌دهند.`
 ]
