@@ -141,7 +141,8 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `Women and girls especially have suffered systematic attacks on their rights under the Taliban. All the demonstrations were held by women in Afghanistan because of their rights. But they were ignored!`,
 `The Taliban have failed to provide protection for the Hazaras. Actually, They themselves tried to kill the innocent people. On 24th Nov. 2022, Around 12 people were killed by Taliban in DAYKUNDI.`,
 `The Taliban have forcibly displaced thousands of Hazaras from their ancestral lands across the country . The examples are the last happenings in Daykundi. 11 were killed, one was beheaded and the next day six people were arrested by Taliban.`,
-`None of the crimes carried out against Hazaras have been investigated. None of the perpetrators have been arrested or brought to justice. No compensation for victims and their families has been paid.  And again, the same thing is going on in DAYKUNDI province.`
+`None of the crimes carried out against Hazaras have been investigated. None of the perpetrators have been arrested or brought to justice. No compensation for victims and their families has been paid.  And again, the same thing is going on in DAYKUNDI province.`,
+`On Thursday 24th November 2022, Taliban killed 11 people including 4 children and a woman. They also beheaded a man by the name of Amanullah Mali. 4 other people were arrested by Taliban and there's no information available about them.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
