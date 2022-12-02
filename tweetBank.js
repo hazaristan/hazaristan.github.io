@@ -155,7 +155,15 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `The Taliban must immediately cease these acts of revenge and ensure employees of the former government and their families can live safely in Afghanistan`,
 `These violent deaths are further shocking proof that the Taliban continue to persecute, torture and extrajudicially execute Hazara people.`,
 `On the night of 26 June 2022, Taliban raided the home of Mohamad Muradi, a Hazara man and security official under the former government who had previously led a People’s Uprising Program force – a local militia – against the Taliban in 2020 and 2021.`,
-`In Daikundi incident, a 14 year old child by the name of Mahdi, and an 11 year boy by the name of Mohammad was killed. Their only crime was being a Hazara, but Taliban called them rebels. Can a child be a rebel?`
+`In Daikundi incident, a 14 year old child by the name of Mahdi, and an 11 year boy by the name of Mohammad was killed. Their only crime was being a Hazara, but Taliban called them rebels. Can a child be a rebel?`,
+`Between 1892-1893, Abdul Rahman broke his promise and arrested all religious leaders of Hazaras. Most of them were shot and the others have been left in prison.
+(Tarikh Melli Hazara book)`,
+`The first uprising of Hazaras had started in April 1892, when the government soldiers rapped the wife of a Hazara tribe leader. They got decision to stand against this violence. 
+(Tarikh Melli Hazara Book)`,
+`Abdul Rahman had arrested and sold Hazara women and children as slaves and some of them were forced to be the wives of his soldiers. 
+(Tarikh Melli Hazara book)`,
+`After 1893, Amir of Kabul ordered to take all the agricultural lands of Hazara people in Hazarajat.
+(Tarikh Melli Hazara book)`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
