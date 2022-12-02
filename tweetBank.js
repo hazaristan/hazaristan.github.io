@@ -142,7 +142,20 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `The Taliban have failed to provide protection for the Hazaras. Actually, They themselves tried to kill the innocent people. On 24th Nov. 2022, Around 12 people were killed by Taliban in DAYKUNDI.`,
 `The Taliban have forcibly displaced thousands of Hazaras from their ancestral lands across the country . The examples are the last happenings in Daykundi. 11 were killed, one was beheaded and the next day six people were arrested by Taliban.`,
 `None of the crimes carried out against Hazaras have been investigated. None of the perpetrators have been arrested or brought to justice. No compensation for victims and their families has been paid.  And again, the same thing is going on in DAYKUNDI province.`,
-`On Thursday 24th November 2022, Taliban killed 11 people including 4 children and a woman. They also beheaded a man by the name of Amanullah Mali. 4 other people were arrested by Taliban and there's no information available about them.`
+`On Thursday 24th November 2022, Taliban killed 11 people including 4 children and a woman. They also beheaded a man by the name of Amanullah Mali. 4 other people were arrested by Taliban and there's no information available about them.`,
+`The Hazara people are the followers of Islam relegion. The majority of them are Shia, and a considerable number of them are Suni and a few of them are Esmaeili-Shia. In spite of the fact, they are considered as one single Hazara.`,
+`The indigenous language of Hazara people is a kind of Persian language which is widely used in central Afghanistan which is called Hazara-Gi. They were traditionally living as ranchers in central or south-east areas.`,
+`The existence of different civilizations in Hazara history has created many visible effects on Hazara custom. Also, being genetically related to Turkish people  and having relations with Iranian people change them to be so different from other people.`,
+`The Hazara culture is the richest culture in Afghanistan which is so unique and influenced by middle and south Asia. Hazaristan is a very historical place which has been the location for stability of Greek, Ghaznavi, Ghuri, Islamic, Buddhist civilizations.`,
+`Months before the Taliban takeover, violent attacks against the Hazaras resurged. The UN documented 20 incidents targeting Shi’a/Hazara civilians in the first six months of 2021, which killed 143 and injured more than 300 people.`,
+`The Hazara constitut an estimated 20 percent of Afghanistan population. They have faced discrimination and persecution in Afghanistan for over a century particularly during the last period of Taliban rule in 1990s.`,
+`In the first months after seizing control, the Taliban killed 13 Hazara men in Daykundi province and forcibly displaced thousands of Hazaras across several provinces, claiming the community had disputed rights to the land`,
+`By july 2022, more than 25,000 primarily-Hazara people have been forcibly displaced from their homes by the Taliban’s military campaign and currently face intolerable conditions`,
+`Despite promises to protect the Hazaras from threats, the Taliban have committed targeted attacks and have forcibly displaced thousands of Hazara civilians.`,
+`The Taliban must immediately cease these acts of revenge and ensure employees of the former government and their families can live safely in Afghanistan`,
+`These violent deaths are further shocking proof that the Taliban continue to persecute, torture and extrajudicially execute Hazara people.`,
+`On the night of 26 June 2022, Taliban raided the home of Mohamad Muradi, a Hazara man and security official under the former government who had previously led a People’s Uprising Program force – a local militia – against the Taliban in 2020 and 2021.`,
+`In Daikundi incident, a 14 year old child by the name of Mahdi, and an 11 year boy by the name of Mohammad was killed. Their only crime was being a Hazara, but Taliban called them rebels. Can a child be a rebel?`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
