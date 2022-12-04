@@ -162,8 +162,12 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 (Tarikh Melli Hazara Book)`,
 `Abdul Rahman had arrested and sold Hazara women and children as slaves and some of them were forced to be the wives of his soldiers. 
 (Tarikh Melli Hazara book)`,
-`After 1893, Amir of Kabul ordered to take all the agricultural lands of Hazara people in Hazarajat.
-(Tarikh Melli Hazara book)`
+`After 1893, Amir of Kabul ordered to take all the agricultural lands of Hazara people in Hazaristan.
+(Tarikh Melli Hazara book)`,
+`Ms. Zarifa is in Taliban prison for the crime of protesting the genocide of the Hazaras. She is not allowed to be in contact with her family. Please release her.`,
+`Freedom of speech and press was destroyed in Afghanistan under the rule of the Taliban.`,
+`The Taliban does not allow the families of Daikundi victims to talk to journalists.`,
+`4 of the victims of Daikundi were children who did not fight with anyone.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
