@@ -167,7 +167,20 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `Ms. Zarifa is in Taliban prison for the crime of protesting the genocide of the Hazaras. She is not allowed to be in contact with her family. Please release her.`,
 `Freedom of speech and press was destroyed in Afghanistan under the rule of the Taliban.`,
 `The Taliban does not allow the families of Daikundi victims to talk to journalists.`,
-`4 of the victims of Daikundi were children who did not fight with anyone.`
+`4 of the victims of Daikundi were children who did not fight with anyone.`,
+`A suicide attack happened on 01-08-2017 in Jawadia Mosque located in Bekrabad Herat. As the result of it, 32 Civilians were killed.`,
+`On 23-07-2017 a suicide bombing occured in Ministry of Mines by Taliban which killed 35 mostly high educated Hazara.`,
+`On 23-07-2017 a suicide bombing occured in Ministry of Mines by Taliban which killed 35 mostly high educated Hazara.`,
+`On 06-06-2017 a Bomb was exploded in Masjid Jame Herat. That explosion killed 6 civilians.`,
+`On 16-03-2017 Taliban gunmen ambushed on roadside at Miyandara, Sar-e-Pol provincee and shot 3 Hazara civilians as they were passing.`,
+`Unknown gunmen killed 14 coal-miners at Tala and Barfak in Baghlan province on 06-01-2017.`,
+`At Baqir-ul-Oloom Mosque in West Kabul a suicide attack happened and Killed 32 Civilians on 21-11-2016.`,
+`On 14-10-2016 at Khaja Ghulak Mosque in Mazar-e-Sharif, Balkh Province, 14 Civilians were killed by bomb explosion.`,
+`On 11-10-2016 at Sakhi pilgrimage  in Kabul, 18 Civilians were killed by a suicide attck.`,
+`A suicide attack in Kaaj educational center took the lives of 53 student and injured 110  mostly Hazara  female students on September 30, 2022.  Faiza Amiri was killed on that suicide attack while taking university entrance practice exam.`,
+`On 09-11-2015, 7 Hazara travelers were taken as hostages and then got beheaded by Taliban. Shukria Tabassum was just 9 years old and was killed because of being Hazara in Zabul.`,
+`At a suicide attack planned by Taliban, 7 members of Tolo TV's journalists were killed on 20-01-2016.`,
+`In the 1890s, Abdur Rahman Khan massacred and displaced more than half of the Hazara population. Governments even went a step further, trying to erase this human tragedy from history.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
