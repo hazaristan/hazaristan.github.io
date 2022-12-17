@@ -141,7 +141,7 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `Women and girls especially have suffered systematic attacks on their rights under the Taliban. All the demonstrations were held by women in Afghanistan because of their rights. But they were ignored!`,
 `The Taliban have failed to provide protection for the Hazaras. Actually, They themselves tried to kill the innocent people. On 24th Nov. 2022, Around 12 people were killed by Taliban in DAYKUNDI.`,
 `The Taliban have forcibly displaced thousands of Hazaras from their ancestral lands across the country . The examples are the last happenings in Daykundi. 11 were killed, one was beheaded and the next day six people were arrested by Taliban.`,
-`None of the crimes carried out against Hazaras have been investigated. None of the perpetrators have been arrested or brought to justice. No compensation for victims and their families has been paid.  And again, the same thing is going on in DAYKUNDI province.`,
+`None of the crimes carried out against Hazaras have been investigated. None of the perpetrators have been brought to justice. No compensation for victims and their families has been paid.  And again, the same thing is going on in DAYKUNDI.`,
 `On Thursday 24th November 2022, Taliban killed 11 people including 4 children and a woman. They also beheaded a man by the name of Amanullah Mali. 4 other people were arrested by Taliban and there's no information available about them.`,
 `The Hazara people are the followers of Islam relegion. The majority of them are Shia, and a considerable number of them are Suni and a few of them are Esmaeili-Shia. In spite of the fact, they are considered as one single Hazara.`,
 `The indigenous language of Hazara people is a kind of Persian language which is widely used in central Afghanistan which is called Hazara-Gi. They were traditionally living as ranchers in central or south-east areas.`,
@@ -163,7 +163,7 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `Abdul Rahman had arrested and sold Hazara women and children as slaves and some of them were forced to be the wives of his soldiers. 
 (Tarikh Melli Hazara book)`,
 `After 1893, Amir of Kabul ordered to take all the agricultural lands of Hazara people in Hazaristan.
-(Tarikh Melli Hazara book)`,
+ (Tarikh Melli Hazara book)`,
 `Ms. Zarifa is in Taliban prison for the crime of protesting the genocide of the Hazaras. She is not allowed to be in contact with her family. Please release her.`,
 `Freedom of speech and press was destroyed in Afghanistan under the rule of the Taliban.`,
 `The Taliban does not allow the families of Daikundi victims to talk to journalists.`,
@@ -192,7 +192,31 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `Taliban gunmen killed 2 Hazara passengers on 03-10-2015 in Kundoz province, Pul-e-Achin area.`,
 `On 02-07-2015 in Jalrez District, Wardak Province 22 Hazara Policemen were killed due to an Armed attack by Taliban.`,
 `On 11-04-2015 at Khogiyani. A roadside bomb blast killed 12 Hazara travelers.`,
-`On of those 57 victims of Kaaj suicide attack which happened on September 30, 2022 is Samira Himati. She was just taking university entrance practice exam.`
+`On of those 57 victims of Kaaj suicide attack which happened on September 30, 2022 is Samira Himati. She was just taking university entrance practice exam.`,
+`Freshta Nowrozi was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance mock test.
+This attack took the lives of 57 and injured 110 mostly Hazara female  students.`,
+`Fatima Mohammadi is one of the Kaaj suicide attack victims on September 30, 2022. She was taking university entrance practice exam. This attack took the lives of 57 and injured 110 mostly female Hazara students.`,
+`Hajar Mohammadi was killed in a suicide attack in Kaaj educational center on September 30, 2022 while she was taking university entrance practice exam. This attack took the lives of 57 and injuring 110 mostly female Hazara students.`,
+`Hangama Ahmadi was killed in a suicide attack in Kaaj educational center which killed 57 and injured 110 mostly Hazara female students on September 30, 2022. They were taking university entrance practice exam.`,
+`Madina Ghulami was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam. This attack took the lives of over 53 and injured 110 mostly female Hazara students.`,
+`Humaira Asadi was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam. This attack took the lives of over 53 and injured 110 mostly female Hazara students.`,
+`Latifa Yousufi was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam.‌ This attack took the lives of over 53 and injured 110 mostly female Hazara students.`,
+`Mahdia Alizada was killed in Kaaj suicide attack on September 30, 2022. At that time, she was taking university entrance practice exam. This attack took the lives of 57 and injured 110 mostly Hazara female  students.`,
+`Husnia Azimi is one of the victims of Kaaj suicide attack on September 30, 2022. She was mere, taking university entrance practice exam.This attack took the lives of 57 and injured 110 mostly female Hazara students.`,
+`Marwa Asghari was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam.
+This attack took the lives of 57 and injured 110 mostly female Hazara students.`,
+`Marzia Mohammadi was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam.
+This attack took the lives of over 57 and injured 110 mostly female Hazara students.`,
+`Nazanin Kazimi was killed in a suicide attack in Kaaj educational center on September 30, 2022 She was taking university entrance practice exam.
+This attack took the lives of 57 and injuring 110 mostly female Hazara students.`,
+`Nazanin Hajzada was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam.
+This attack took the lives of 57 and injured 110 mostly female Hazara students.`,
+`Nilofar Moradi was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam.
+This attack took the lives of 57 and injured 110 mostly female Hazara students.`,
+`Sabira Ahmadi was killed in a suicide attack in Kaaj educational center on September 30, 2022 while she was taking university entrance practice exam.
+This attack took the lives of 57 and injuring 110 mostly female Hazara students.`,
+`Sadia Nabizada was killed in Kaaj suicide attack on September 30, 2022. She was taking university entrance practice exam, but like other 57 students, she lost her life. Also 110 mostly female Hazara students got injured.`,
+`Omulbanin Asghari was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam, but she got targeted because of her ethnic identity like other students.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
@@ -308,7 +332,8 @@ let farsi = [`سوگند به عاشقان این وطن
 `نکته ی عدالت اینه که همه وقتی برابر میشن که مردن!`,
 `بهانه آوردند که هزاره‌ها بیگانه های این سرزمین اند غافل از اینکه ما بودیم که جان هایمان را گذاشتیم در دل خاکی که آنها بر روی آن نفس میکشند. حالا اما ما نه فقط برای یک نسل بلکه برای نسل ها سکوت نخواهیم کرد.`,
 `هزاره را با آن درد و اندوه دیدن سخت، ولی هزاره بودن صدبرابر سخت تر است. هی روزگار! تو چه کرده ای که ما اینچنین شکسته ایم..؟!`,
-`من به چشم های بادامی و بی قرار تو قول میدم ریشه های ما به آب و شاخه های ما به آفتاب میرسد ما دوباره سبز میشویم!`,
+`من به چشم های بادامی و بی قرار تو قول میدم ریشه های ما به آب و شاخه های ما به آفتاب میرسد ما دوباره سبز میشویم!`
+,
 `هزاره را با آن درد و اندوه دیدن سخت، ولی هزاره بودن صدبرابر سخت تر است. هی روزگار! تو چه کرده ای که ما اینچنین شکسته ایم..؟!
 نسل کشی هزاره رو متوقف کنید`,
 `اگر میخواهی دریچه ذهنت را ببندی ، ببند! 
@@ -344,7 +369,8 @@ let farsi = [`سوگند به عاشقان این وطن
 آنکه را خواندن آموخته، نمی‌توانید بی‌سواد کنید
 کسی را که احساس غرور کرده، نمی‌توانید تحقیر کنید
 نمی‌توانید مردمی را که دیگر ترسی ندارند، سرکوب کنید
-ما آینده را دیده‌ایم و آینده از آنِ ماست`,
+ما آینده را دیده‌ایم و آینده از آنِ ماست`
+,
 `هزاره همیشه میداند که درد بیگانگی چه درد بزرگی است چرا که آنها در وطن خویش هم غریبه به حساب می آیند..!
 نسل کشی هزاره هارو متوقف کنید`,
 `چشم در چشم رویای آزادی ات بایست و بجنگ!
