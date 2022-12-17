@@ -180,7 +180,19 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `A suicide attack in Kaaj educational center took the lives of 53 student and injured 110  mostly Hazara  female students on September 30, 2022.  Faiza Amiri was killed on that suicide attack while taking university entrance practice exam.`,
 `On 09-11-2015, 7 Hazara travelers were taken as hostages and then got beheaded by Taliban. Shukria Tabassum was just 9 years old and was killed because of being Hazara in Zabul.`,
 `At a suicide attack planned by Taliban, 7 members of Tolo TV's journalists were killed on 20-01-2016.`,
-`In the 1890s, Abdur Rahman Khan massacred and displaced more than half of the Hazara population. Governments even went a step further, trying to erase this human tragedy from history.`
+`In the 1890s, Abdur Rahman Khan massacred and displaced more than half of the Hazara population. Governments even went a step further, trying to erase this human tragedy from history.`,
+`Hazaras have been killed in many social events collectively. They are killed because they are Hazaras and they mostly practice Shiite sect of Islam. Therefore, it is obviously genocide.`,
+`No words can express the depth of Hazaras’ pain in Afghanistan. Hazaras have been being killed purposely for more than a century in Afghanistan.`,
+`on May 12th 2020, the attack on a maternity ward of a hospital in western Kabul killed many Hazara mothers, newborn and unborn babies.`,
+`At least 90 people have been killed and 147 others got injured after multiple explosions rocked Sayed Ul-Shohada school in west Kabul on May 2021. The victims were all Hazara.`,
+`On October 24, a massive suicide bombing outside the Kawsar-e Danish educational center in west Kabul killed at least 30 and injured 70 Hazaras.`,
+`At least 72 Hazaras people were killed in a blast in Imam-e-Zaman mosque on October, 20th, 2020.`,
+`in July 2016, the twin suicide attacks on Hazara peaceful demonstration in Kabul left dozens of dead bodies and countless injuries.`,
+`On 23-07-2016, at Dehmazang Square of Kabul – 84 protesters who were mostly university students lost their lives during the Illumination movement via two bomb blasts byTaliban.`,
+`Taliban gunmen killed 2 Hazara passengers on 03-10-2015 in Kundoz province, Pul-e-Achin area.`,
+`On 02-07-2015 in Jalrez District, Wardak Province 22 Hazara Policemen were killed due to an Armed attack by Taliban.`,
+`On 11-04-2015 at Khogiyani. A roadside bomb blast killed 12 Hazara travelers.`,
+`On of those 57 victims of Kaaj suicide attack which happened on September 30, 2022 is Samira Himati. She was just taking university entrance practice exam.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
