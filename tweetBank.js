@@ -216,7 +216,18 @@ This attack took the lives of 57 and injured 110 mostly female Hazara students.`
 `Sabira Ahmadi was killed in a suicide attack in Kaaj educational center on September 30, 2022 while she was taking university entrance practice exam.
 This attack took the lives of 57 and injuring 110 mostly female Hazara students.`,
 `Sadia Nabizada was killed in Kaaj suicide attack on September 30, 2022. She was taking university entrance practice exam, but like other 57 students, she lost her life. Also 110 mostly female Hazara students got injured.`,
-`Omulbanin Asghari was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam, but she got targeted because of her ethnic identity like other students.`
+`Omulbanin Asghari was killed in a suicide attack in Kaaj educational center on September 30, 2022. She was taking university entrance practice exam, but she got targeted because of her ethnic identity like other students.`,
+`Ban on female university students draws international condemnation. Just funny! They know how to condemn the Taliban's actions but did not learn how to discuss and stop them.`,
+`It's another move by the Taliban to halt the education of females. After the Taliban seized power in Afghanistan in August 2021, they banned most women and girls from attending high school.`,
+`The Taliban took our last hope from us. The female students had their last exam tomorrow," she said. "But the Taliban closed the gates of the university today.`,
+`On Tuesday morning, a woman called Zahra was preparing to take final exams to complete her arts degree at a university, in Kabul. By evening, she was effectively expelled because of her gender, like every other female university student in Afghanistan.`,
+`In November, Afghan women were prevented from entering amusement parks in Kabul as the government announced restrictions on women being able to access public parks. `,
+`With the implementation of this decree, half of the Afghan population will soon be unable to access education beyond primary school.`,
+`The US condemns “the Taliban’s indefensible decision to ban women from universities,” State Department spokesperson Ned Price said during a Tuesday briefing. The US and the world just condemn and do nothing against the Taliban.`,
+`“The Taliban are making it clear every day that they don’t respect the fundamental rights of Afghanistan's people, especially women,” the rights watchdog said in a statement. `,
+`Girls were barred from returning to secondary schools in March, after the Taliban ordered schools for girls to shut just hours after they were due to reopen following months long closures imposed after the Taliban takeover in August 2021.`,
+`The Taliban government has suspended university education for all female students in Afghanistan, the latest step in its brutal clampdown on the rights and freedoms of Afghan women`,
+`The decision to ban women from public and private universities came following a meeting of Taliban leadership and represented the latest move by the country's religious rulers to roll back women's rights.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
