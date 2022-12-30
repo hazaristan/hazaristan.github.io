@@ -148,7 +148,7 @@ This is visible in the targeted attacks, and especially bombings, in Hazara neig
 `The existence of different civilizations in Hazara history has created many visible effects on Hazara custom. Also, being genetically related to Turkish people  and having relations with Iranian people change them to be so different from other people.`,
 `The Hazara culture is the richest culture in Afghanistan which is so unique and influenced by middle and south Asia. Hazaristan is a very historical place which has been the location for stability of Greek, Ghaznavi, Ghuri, Islamic, Buddhist civilizations.`,
 `Months before the Taliban takeover, violent attacks against the Hazaras resurged. The UN documented 20 incidents targeting Shi’a/Hazara civilians in the first six months of 2021, which killed 143 and injured more than 300 people.`,
-`The Hazara constitut an estimated 20 percent of Afghanistan population. They have faced discrimination and persecution in Afghanistan for over a century particularly during the last period of Taliban rule in 1990s.`,
+`The Hazara constitut an estimated 20 percent of Afghanistan population. They have faced discrimination and persecution in Afghanistan for over a century particularly during the Taliban rule in 1990s and still in progress.`,
 `In the first months after seizing control, the Taliban killed 13 Hazara men in Daykundi province and forcibly displaced thousands of Hazaras across several provinces, claiming the community had disputed rights to the land`,
 `By july 2022, more than 25,000 primarily-Hazara people have been forcibly displaced from their homes by the Taliban’s military campaign and currently face intolerable conditions`,
 `Despite promises to protect the Hazaras from threats, the Taliban have committed targeted attacks and have forcibly displaced thousands of Hazara civilians.`,
@@ -458,5 +458,37 @@ let farsi = [`سوگند به عاشقان این وطن
 همه چیز بهتر خواهد شد
 اکنون هوا طوفانی است
 اما طوفان تا ابد ادامه نخواهد داشت!
-نسل کشی هزاره ها را متوقف کنید`
+نسل کشی هزاره ها را متوقف کنید`,
+`ما سالها اندوه را بر دوش کشیدیم و صبح طلوع نکرد
+نسل کشی هزاره هارو متوقف کنید`,
+`میگویند:برایت خواب های خوشی را آرزومندیم. خواب زیبا به چه کارمان آید وقتی ما گرفتار بیداری دردناکی هستیم!
+نسل کشی هزاره ها را متوقف کنید`,
+`پادشاهی روزی به وزیر خودش گفت:چه خوب است اگر پادشاهی جاودانه باشد! 
+وزیر گفت:اگر جاودانه بود،نوبت به تو نمیرسید. دائما ظلم پایدار نخواهد بود پس همیشه جایی برای امید هست!`,
+`در زندگی هزاره ها خورشید مرده بود و فردا در ذهن کودکان مفهوم گنگ گمشده ای داشت. همه زندگی را در انتظار مرگ سپری میکردند اما حال با عزم راسخ شان برای توقف نسل کشی باریکه های نور بر دنیای شان در حال تابش است.`,
+`دنیا هزاره را پیاپی در هم میشکند
+ولی پس از هر کدام آن، جای شکستگی شان قوی تر خواهد شد. حال با تمام قوا در راه توقف نسل کشی هزاره ها قدم بر میداریم. با وجود همه سوگ ها و نرسیدن ها و پر پر شده ها!!!`,
+`ما همان نسلی هستیم که هربار کشتی مان به گِِل نشست، دوباره کشتی ساختیم. هر بار کشته شدیم خشمگین تر شدیم ولی تحمل مان بیشتر شد و به جایی رسیده که آزادی از بند ظلم دیگر برای ما آرزو نیست بلکه هدف است!`,
+`گاهی زندگی کردن بیشتر از خودکشی و شلیک کردن به خود شهامت لازم دارد. زندگی که همانند زندگی هزاره ها هر لحظه با ترس قطعه  قطعه شدن و دوباره برنگشتن عجین شده باشد کابوسی است بی انتها!!
+نسل کشی هزاره ها باید متوقف شود!!`,
+`دیگر وقت آن نیست بدانیم چه کسی جهان را آفریده ، باید دید چه کسانی به خراب کردن آن مشغول اند.
+نسل کشی هزاره ها را متوقف کنید.`,
+`تردید نکن که نوری هست شاید چندان نباشد که گفته اند اما آنقدر هست که از پس تاریکی ات برآید.
+ما خود خالق نور های دنیای تاریک مان خواهیم بود!
+نسل کشی هزاره ها را متوقف کنید.`,
+`ای دوست، ای برادر، ای همخون، وقتی به ماه رسیدی، تاریخ قتل عام گل های هزاره را بنویس! 
+بنویس که با آرزوهای شان دفن شدند!`,
+`ایستاده مردن بهتر از زانو زده زیستن است ، در مقابل نسل کشی مان سکوت نکنیم.
+نسل کشی هزاره ها را باید متوقف کنیم.`,
+`برای نوشتن تاریخم اشک کم میاوریم نه جوهر. آنقدر تلخ و غم انگیز هست تاریخ مان که در هراسم که چشمه اشکم بخشکد.!
+بیایید تا توقف نسل کشی هزاره ها را رقم بزنیم.`,
+`تمام پویه ی انسان به سوی آزادی است
+نسل کشی هزاره هارا متوقف کنید`,
+`برای آنچه که اعتقاد دارید ایستادگی کنید. 
+حتی اگر هزینه اش تنها "ایستادن" باشد.
+نسل کشی هزاره ها را متوقف کنید`,
+`تنها وسوسه ای که کسی هرگز نتوانسته بر آن غالب شود، وسوسه ی امید است. ما هم به زندگی خوب بعد از پایان این نسل کشی ۱۳۰ ساله امیدواریم و برای تحقق یافتن اش سرسختانه ایستاده ایم.
+نسل کشی هزاره ها را متوقف خواهیم کرد.`,
+`در قلم رمز شفا نیست، دوای درد استبداد خون است!
+نسل کشی هزاره ها را متوقف خواهیم کرد حتی اگر نیاز به جان نثاری باشد!`
 ]
