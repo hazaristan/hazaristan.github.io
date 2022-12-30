@@ -78,5 +78,6 @@ let isLanguage = localStorage.getItem('isLanguage') === null ? 'farsi' : localSt
 changeLanguage(isLanguage)
 
 function goToTeCooperate() {
-  window.open('cooperate')
+//   window.open('cooperate')
+  window.open('https://t.me/text4hashtag')
 }
