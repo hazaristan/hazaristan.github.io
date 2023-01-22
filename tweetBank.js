@@ -227,7 +227,11 @@ This attack took the lives of 57 and injuring 110 mostly female Hazara students.
 `“The Taliban are making it clear every day that they don’t respect the fundamental rights of Afghanistan's people, especially women,” the rights watchdog said in a statement. `,
 `Girls were barred from returning to secondary schools in March, after the Taliban ordered schools for girls to shut just hours after they were due to reopen following months long closures imposed after the Taliban takeover in August 2021.`,
 `The Taliban government has suspended university education for all female students in Afghanistan, the latest step in its brutal clampdown on the rights and freedoms of Afghan women`,
-`The decision to ban women from public and private universities came following a meeting of Taliban leadership and represented the latest move by the country's religious rulers to roll back women's rights.`
+`The decision to ban women from public and private universities came following a meeting of Taliban leadership and represented the latest move by the country's religious rulers to roll back women's rights.`,
+`Hoping that someday, our voices be heard and the Genocide of Hazara  people acknowledged, we cry for help today and everyday.`,
+`The peace loving mass of Hazaras in Afghanistan, are the most vulnerable people in Afghanistan and the target of massacres and genocide.  We need the International Community’s support and protection.`,
+`Hazaras are a big part of Afghanistan, but have been singled out and targeted by the government backed terrorists. These acts of genocide must be condemned by the United Nations as well as Civilized Nations.`,
+`Educated Pashtuns strengthen the system of tyranny and massacre of Hazaras by suicide of uneducated Pashtuns.  The Pashtuns are moderate and they lobby for us to die.`
 ]
 
 let farsi = [`سوگند به عاشقان این وطن
@@ -492,5 +496,7 @@ let farsi = [`سوگند به عاشقان این وطن
 `در قلم رمز شفا نیست، دوای درد استبداد خون است!
 نسل کشی هزاره ها را متوقف خواهیم کرد حتی اگر نیاز به جان نثاری باشد!`,
 `"ایدئولوژی"یکی از ستون های استحکام و پایداری روبنای نظام است. 
-این ستون بر پایه ی دروغ دروغ ساخته شده است. این ساختمان تا زمانی دوام خواهد آورد که مردم حاضر باشند زیر سقف دروغ زندگی کنند و هزاره ها بدلیل سرکشی از این قوانین دائما  نسل کشی میشوند.`
+این ستون بر پایه ی دروغ دروغ ساخته شده است. این ساختمان تا زمانی دوام خواهد آورد که مردم حاضر باشند زیر سقف دروغ زندگی کنند و هزاره ها بدلیل سرکشی از این قوانین دائما  نسل کشی میشوند.`,
+`عادت‌ها مى‌توانند انسان را نابود كنند، كافیست انسان به گرسنگى و رنج بردن عادت كند، به زير ستم بودن، تا ديگر هرگز به رهايى فكر نكند و ترجيح بدهد در بند بماند
+نسل کشی هزاره هارا متوقف کنید`
 ]
