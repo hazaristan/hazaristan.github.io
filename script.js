@@ -8,21 +8,21 @@ const darkColor = '#2B2A33'
 const liteColor = '#F5F5F5'
 function darkLiteMode(booleanValue) {
   if (booleanValue === 'on') {
-    lite.style.display='none'
-    dark.style.display='flex'
+    lite.style.display = 'none'
+    dark.style.display = 'flex'
     document.body.style.background = liteColor
     telegram.style.color = darkColor
     h1.style.color = darkColor
     p.style.color = darkColor
-    localStorage.setItem('darkLiteMode','on')
+    localStorage.setItem('darkLiteMode', 'on')
   } else {
-    dark.style.display='none'
-    lite.style.display='flex'
+    dark.style.display = 'none'
+    lite.style.display = 'flex'
     document.body.style.background = darkColor
     telegram.style.color = liteColor
     h1.style.color = liteColor
     p.style.color = liteColor
-    localStorage.setItem('darkLiteMode','off')
+    localStorage.setItem('darkLiteMode', 'off')
   }
 }
 let isLiteMode = localStorage.getItem('darkLiteMode') === null ? 'on' : localStorage.getItem('darkLiteMode')
@@ -31,13 +31,14 @@ darkLiteMode(isLiteMode)
 // change Language and set text align
 let rtl = ['farsi', 'arabic']
 function changeLanguage(lang) {
-  localStorage.setItem('isLanguage',lang)
+  numberText = 0
+  localStorage.setItem('isLanguage', lang)
   document.querySelector('.lite>.language').innerHTML = isLanguage.slice(0, 2)
   document.querySelector('.dark>.language').innerHTML = isLanguage.slice(0, 2)
-  if (rtl.indexOf(lang)){
+  if (rtl.indexOf(lang)) {
     p.style.textAlign = 'left'
     p.style.direction = 'ltr'
-  }else{
+  } else {
     p.style.textAlign = 'right'
     p.style.direction = 'rtl'
   }
@@ -58,19 +59,29 @@ function shareTweet() {
 // get new text for hashtag
 let Text4hashtag = ''
 let finallyText = ''
-let numberText
+let numberText = localStorage.getItem('numberText') === null ? 0 : Number(localStorage.getItem('numberText'))
 function addTweet() {
+  numberText = localStorage.getItem('numberText')
   if (isLanguage === 'farsi') {
-    numberText = Math.floor(Math.random() * farsi.length)
+
     Text4hashtag = farsi[numberText]
+    if (++numberText === farsi.length) {
+      numberText = 0
+    }
+    localStorage.setItem('numberText', numberText)
+
   } else if (isLanguage === 'english') {
-    numberText = Math.floor(Math.random() * english.length)
+
     Text4hashtag = english[numberText]
+    if (++numberText === english.length) {
+      numberText = 0
+    }
+    localStorage.setItem('numberText', numberText)
   }
-    finallyText = Text4hashtag.replaceAll(`
-`,'%0a')
-   Text4hashtag = Text4hashtag.replaceAll(`
-`,'<br>')
+  finallyText = Text4hashtag.replaceAll(`
+`, '%0a')
+  Text4hashtag = Text4hashtag.replaceAll(`
+`, '<br>')
   p.innerHTML = Text4hashtag
   telegram.innerHTML = numberText + ' - Telegram'
 }
@@ -78,6 +89,6 @@ let isLanguage = localStorage.getItem('isLanguage') === null ? 'farsi' : localSt
 changeLanguage(isLanguage)
 
 function goToTeCooperate() {
-//   window.open('cooperate')
+  //   window.open('cooperate')
   window.open('https://t.me/text4hashtag')
 }
