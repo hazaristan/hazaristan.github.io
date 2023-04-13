@@ -59,24 +59,26 @@ function shareTweet() {
 // get new text for hashtag
 let Text4hashtag = ''
 let finallyText = ''
-let numberText = localStorage.getItem('numberText') === null ? 0 : Number(localStorage.getItem('numberText'))
+let numberTextFa = localStorage.getItem('numberTextFa') === null ? 0 : Number(localStorage.getItem('numberTextFa'))
+let numberTextEn = localStorage.getItem('numberTextEn') === null ? 0 : Number(localStorage.getItem('numberTextEn'))
 function addTweet() {
-  numberText = localStorage.getItem('numberText')
+  numberTextFa = localStorage.getItem('numberTextFa')
+  numberTextEn = localStorage.getItem('numberTextEn')
   if (isLanguage === 'farsi') {
 
-    Text4hashtag = farsi[numberText]
-    if (++numberText === farsi.length) {
-      numberText = 0
+    Text4hashtag = farsi[numberTextFa]
+    if (++numberTextFa === farsi.length) {
+      numberTextFa = 0
     }
-    localStorage.setItem('numberText', numberText)
+    localStorage.setItem('numberTextFa', numberTextFa)
 
   } else if (isLanguage === 'english') {
 
-    Text4hashtag = english[numberText]
-    if (++numberText === english.length) {
-      numberText = 0
+    Text4hashtag = english[numberTextEn]
+    if (++numberTextEn === english.length) {
+      numberTextEn = 0
     }
-    localStorage.setItem('numberText', numberText)
+    localStorage.setItem('numberTextEn', numberTextEn)
   }
   finallyText = Text4hashtag.replaceAll(`
 `, '%0a')
