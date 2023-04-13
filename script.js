@@ -59,12 +59,10 @@ function shareTweet() {
 // get new text for hashtag
 let Text4hashtag = ''
 let finallyText = ''
+function addTweet() {
 let numberTextFa = localStorage.getItem('numberTextFa') === null ? 0 : Number(localStorage.getItem('numberTextFa'))
 let numberTextEn = localStorage.getItem('numberTextEn') === null ? 0 : Number(localStorage.getItem('numberTextEn'))
 let numberText = isLanguage === 'farsi' ? numberTextFa : numberTextEn
-function addTweet() {
-  numberTextFa = localStorage.getItem('numberTextFa')
-  numberTextEn = localStorage.getItem('numberTextEn')
   if (isLanguage === 'farsi') {
     Text4hashtag = farsi[numberTextFa]
     if (++numberTextFa === farsi.length) {
