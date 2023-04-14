@@ -71,6 +71,13 @@ respective sectors, rounding up male occupants.`
   , `In January 2001, the UN Secretary General, Kofi Annan, deplored the killings in Yakaolang and demanded that the Taleban take immediate steps to control their forces.`
   , `Amnesty International also condemned the massacre and called once again on the international community to set up an international community with a clearly demonstrated independent, impartial and competent structure to investigate the massacres.`
   , `Taliban leader Mullah Omar not only denied that the massacres had occurred but banned journalists from visiting Yakaolang. He was quoted in the international media as saying: I am not allowing them to visit Yakaolang because their reports are not fair`
+  ,`It was clear that Taliban wanted to destroy our food. Why else should they burn our crops, set fire on our homes and loot our grains? Yakaolang`
+  ,`Amnesty International:
+Efter Talibans senaste fångst av Yakaolang ska talibanerna också ha förstört hem och fruktträdgårdar och plundrat mat.`
+,`A witness who visited Yakaolang weeks after the incident inspected one of the mass graves at Bed Mushkin village, in which 26 bodies, including a 17 old boy, much of whose skin had been removed either prior to or after his death.`
+,`The Taliban detained about 300 civilian adult males, including staff members of local humanitarian organizations, who were herded to assembly points in the center of the district and then shot by firing squad in public view`
+,`Amnesty International:
+People in Kata Khana ran to the mosque for shelter, but they were wrong!Taleban guards deliberately firing two rockets at the mosque where some 73 women,children and elderly men had taken shelter.`
 ]
 
 let farsi = [
