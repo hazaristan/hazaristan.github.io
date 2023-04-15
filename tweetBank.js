@@ -71,13 +71,65 @@ respective sectors, rounding up male occupants.`
   , `In January 2001, the UN Secretary General, Kofi Annan, deplored the killings in Yakaolang and demanded that the Taleban take immediate steps to control their forces.`
   , `Amnesty International also condemned the massacre and called once again on the international community to set up an international community with a clearly demonstrated independent, impartial and competent structure to investigate the massacres.`
   , `Taliban leader Mullah Omar not only denied that the massacres had occurred but banned journalists from visiting Yakaolang. He was quoted in the international media as saying: I am not allowing them to visit Yakaolang because their reports are not fair`
-  ,`It was clear that Taliban wanted to destroy our food. Why else should they burn our crops, set fire on our homes and loot our grains? Yakaolang`
-  ,`Amnesty International:
+  , `It was clear that Taliban wanted to destroy our food. Why else should they burn our crops, set fire on our homes and loot our grains? Yakaolang`
+  , `Amnesty International:
 Efter Talibans senaste fångst av Yakaolang ska talibanerna också ha förstört hem och fruktträdgårdar och plundrat mat.`
-,`A witness who visited Yakaolang weeks after the incident inspected one of the mass graves at Bed Mushkin village, in which 26 bodies, including a 17 old boy, much of whose skin had been removed either prior to or after his death.`
-,`The Taliban detained about 300 civilian adult males, including staff members of local humanitarian organizations, who were herded to assembly points in the center of the district and then shot by firing squad in public view`
-,`Amnesty International:
+  , `A witness who visited Yakaolang weeks after the incident inspected one of the mass graves at Bed Mushkin village, in which 26 bodies, including a 17 old boy, much of whose skin had been removed either prior to or after his death.`
+  , `The Taliban detained about 300 civilian adult males, including staff members of local humanitarian organizations, who were herded to assembly points in the center of the district and then shot by firing squad in public view`
+  , `Amnesty International:
 People in Kata Khana ran to the mosque for shelter, but they were wrong!Taleban guards deliberately firing two rockets at the mosque where some 73 women,children and elderly men had taken shelter.`
+  , `The Yakawlang Massacre was a brutal attack on the Hazara people in Afghanistan, resulting in the killing of hundreds of civilians.`
+  , `The Taliban's attack on Yakawlang is a tragic reminder of the violence and persecution faced by minority communities in Afghanistan.`
+  , `The Yakawlang Massacre was a clear example of ethnic cleansing and genocide against the Hazara people in Afghanistan.`
+  , `We must never forget the atrocities committed during the Yakawlang Massacre, and work to ensure justice for the victims and their families.`
+  , `The Taliban's brutality against the Hazara community in Yakawlang was a violation of basic human rights.`
+  , `The Yakawlang Massacre is a tragedy that should serve as a lesson to the world about the importance of protecting minority communities.`
+  , `The Mirzaolang Massacre was a brutal attack on the Hazara people in Afghanistan, resulting in the killing of hundreds of civilians.`
+  , `The Taliban's attack on Mirzaolang is a tragic reminder of the violence and persecution faced by minority communities in Afghanistan.`
+  , `The Mirzaolang Massacre was a clear example of ethnic cleansing and genocide against the Hazara people in Afghanistan.`
+  , `We must never forget the atrocities committed during the Yakawlang Massacre, and work to ensure justice for the victims and their families.`
+  , `The Taliban's brutality against the Hazara community in Yakawlang was a violation of basic human rights.`
+  , `The Yakawlang Massacre is a tragedy that should serve as a lesson to the world about the importance of protecting minority communities.`
+  , `The Yakawlang Massacre is a stain on humanity that cannot be forgotten.`
+  , `The Mirzaolang Massacre is a stain on humanity that cannot be forgotten.`
+  , `The victims of the Yakawlang Massacre deserve justice and accountability for the atrocities committed against them.`
+  , `The victims of the Mirzaolang Massacre deserve justice and accountability for the atrocities committed against them.`
+  , `The Yakawlang Massacre was a heinous crime against the Hazara people and a violation of international law.`
+  , `The Mirzaolang Massacre was a heinous crime against the Hazara people and a violation of international law.`
+  , `The Yakawlang Massacre was a dark moment in the history of Afghanistan, and we must strive to prevent such tragedies from happening again.`
+  , `The Mirzaolang Massacre was a dark moment in the history of Afghanistan, and we must strive to prevent such tragedies from happening again.`
+  , `The Yakawlang Massacre is a reminder of the dangers of extremism and the need to promote tolerance and understanding.`
+  , `The Mirzaolang Massacre is a reminder of the dangers of extremism and the need to promote tolerance and understanding.`
+  , `The survivors of the Yakawlang Massacre deserve our support and solidarity.`
+  , `The survivors of the Mirzaolang Massacre deserve our support and solidarity.`
+  , `The world must not forget the Yakawlang Massacre and the suffering of the Hazara people.`
+  , `The world must not forget the Mirzaolang Massacre and the suffering of the Hazara people.`
+  , `The Yakawlang Massacre was a tragic event that highlights the need for peace and stability in Afghanistan.`
+  , `The Mirzaolang Massacre was a tragic event that highlights the need for peace and stability in Afghanistan.`
+  , `The victims of the Yakawlang Massacre will always be remembered and honored.`
+  , `The victims of the Mirzaolang Massacre will always be remembered and honored.`
+  , `The Yakawlang Massacre is a painful reminder of the injustices faced by minority communities in Afghanistan.`
+  , `The Mirzaolang Massacre is a painful reminder of the injustices faced by minority communities in Afghanistan.`
+  , `The Taliban's attack on Yakawlang was a brutal act of violence that cannot be justified under any circumstances.`
+  , `The Yakawlang Massacre was a tragedy that should unite us in our efforts to promote peace and reconciliation in Afghanistan.`
+  , `The world must stand with the Hazara people and support their struggle for justice and dignity.`
+  , `The Yakawlang Massacre was a horrific event that underscores the need for greater protection of human rights in Afghanistan.`
+  , `The Yakawlang Massacre was a crime against humanity that demands accountability and justice.`
+  , `The world must condemn the Yakawlang Massacre and stand in solidarity with the Hazara people.`
+  , `According to UNAMA annual report (2017), there were 8 attacks carried out against Hazars which Mirza Wulang massacre was the most catastrophic one. This attack caused 38 casualties (36 deaths and 2 injured).`
+  , `The survivors of the Yakawlang Massacre are heroes who have endured unimaginable pain and suffering.`
+  , `The Yakawlang Massacre was a horrific act of violence that reminds us of the importance of promoting peace and tolerance.`
+  , `The victims of the Yakawlang Massacre deserve our compassion and solidarity.
+The Yakawlang Massacre is a reminder that violence and extremism only bring suffering and pain.`
+  , `The Hazara community in Yakawlang suffered a great loss during the massacre, and we must remember and honor their memory.`
+  , `The Yakawlang Massacre was a crime against humanity that demands accountability and justice.`
+  , `The world must condemn the Yakawlang Massacre and stand in solidarity with the Hazara people.`
+  , `The survivors of the Yakawlang Massacre are heroes who have endured unimaginable pain and suffering.`
+  , `The Yakawlang Massacre was a horrific act of violence that reminds us of the importance of promoting peace and tolerance.`
+  , `The victims of the Yakawlang Massacre will always be remembered for their bravery and resilience.`
+  , `The Yakawlang Massacre was a tragic event that underscores the need for greater protection of human rights in conflict zones.`
+  , `The Hazara people in Yakawlang suffered a great loss during the massacre, and their memory should be honored and respected.`
+  , `In August 1998, the Taliban committed arguably the worst recorded ethnic massacre in Afghanistan’s recent history in Mazar-e Sharif, Balkh province, by methodically executing between 2,000 to 8,000 Hazara civilians`
 ]
 
 let farsi = [
@@ -174,7 +226,7 @@ let farsi = [
 
 تاریخ خود را گریه کن`
   , `فوج خفاشان شیطان پیشه در تزویرتان
-خون ‎سرپل میریزد از وحشت تکبیرتان
+سرپل میریزد از وحشت تکبیرتان خون
 ای دوصد لعنت به ریش مفتی و هر پیرتان`
   , `گهی در شهر کابل زخم خوردم
 گهی در راه زابل زخــم خوردم
@@ -266,4 +318,26 @@ let farsi = [
  گروه طالبان بیش از ۵۰ تن از افراد این روستا را تیرباران کرده یا سر بریده‌اند و بیش از ۱۵۰ خانوار را به اسارت گرفته‌اند. اکثر کشته‌شدگان زنان، کودکان و افراد مسن هستن`
   , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
 طالبان با تصرف این روستا به تیرباران و سر بریدن مردم این روستا که از قوم هزاره بودند دست زدند و سپس جنازه‌هایشان را درون گورهای دسته جمعی و دره‌ها انداختند`
+  , `روایت یکاولنگ 
+اکثر کشته ها بر اثر فیر کلاشینکوف و پیکا از بین رفته بودند و طالبان در کشتار خود هیچگونه ملاحظه و شناسایی نمی کرد بلکه هرکه به دستشان میامد بدون پرسش و سوال در هر شغل و سن که بود به قتل می‌رساندند. `
+  , `روایت یکاولنگ
+ماچون از مرکز فاصله داریم نمیدانستیم درمرکز چه خبر است تا اینکه روز دوشنبه بعدازظهر تعداد 9 عراده موتر در پشته قرغان آمد در تمام مدت که انها در قرغان بودند صداهای ضجه و ناله زن و بچه ها شنیده میشد به طوری که قریه را یکپارچه ماتم گرفته بود.`
+  , `روایت یکاولنگ
+یک طالب گفت بروید به خانه های خود که خدا شما را عمر دوباره داد وقتی به خانه برگشتیم تمام اموال پراکنده و اشیا قابل حمل را برده بودند چند نفر را که بسیار لت و کوب کرده بودند هنوز هم مریض افتاده اند. هم اینکه تمام اهل قریه فراری شده اند.`
+  , `روایت یکاولنگ
+طالبان دگروال حیات الله را دستگیر و به مرکز میاورد.روزی که طالبان با شکست مواجه میشود او را در همانجا به وضع فجیع به شهادت میرسانند. یک روز پس از شکست طالبان من رفتم و دیدم که حدود 11زخم برچه در سینه داشت وبا گلوله نیز زده بودند.`
+  , `روایت یکاولنگ
+دو نفر تفنگ های خود را عیار نمودند و به طرف نه نفر فیر را شروع کردند که در نتیجه همه نه نفر به زمین افتادند بعد دو نفر جوان دیگر بالای کشته ها رفتند و یک دفعه دیگر همگی را با ضربات پی در پی هدف قرار دادند تا مبادا کسی زنده بماند.`
+  , `روایت یکاولنگ
+بیشترین اموال را که شامل مواشی و گله ها باشد توسط طاب هایی به غارت برده شده است که از کوچی ها بوده و قبلا در ییلاق جاهای یکاولنگ میامده و بسیار خوب مالداران و رمه های آنان را میشناختند.`
+  , `روایت یکاولنگ 
+درسفری که به مناطق رمه داران در خاکدو زردیگا داشتم،گله داران حکایتهایی تکان دهنده از غارت گله های گوسفندان نمودند،مردم این محل به خوبی کوچی های طالب شده را میشناختند.قبلا که میآمدند ناگزیر رفتار غارتگرانه نداشتند اما اینبار طالب آمده بودند.`
+  , `روایت یکاولنگ
+محمد نعیم کوچی یکی از ملک های کوچی ها به وزارت طالبان رسیده بود و کوچی های آشنا به محیط را به هزاره جات اعزام داشته بود.این غارت مواشی به حدی بود که مالداران را در مناطق یکاولنگ به نابودی کشانده و یکی از پایه های اقتصادی را از بین برده بود`
+  , `روایت یکاولنگ
+قریه های بسیاری در یکاولنگ به آتش کشیده شدند؛مناطق:فیروز بهار، سرقول، دره علی، نیک، خم استانه، بخش هایی از تکانه، دهن کنک ، سر کنک و مناطق رازین. تمام این مناطق خانه های مسکونی و علوفه های حیواناتشان،همه به آتش کشیده شدند.`
+  , `عمدتا دو بازارچه جدید و قدیم یکاولنگ که شامل ۴۰۰ باب مغاره و دکان بود، طعنه حریق گردید.
+کتاب نیش عقرب`
+  , `روایت یکاولنگ
+یک موسسه فرانسوی و موسسه بین المللی دیگر در قسمت بازسازی خانه ها و بازار جدید یکاولنگ همکاری نمود اما هیچکدام این کار ها منجر به بازسازی کامل نشده بود.بازار قدیم همچنان سوخته باقی مانده و عبور از آنجا وحشت مرموزی را پیام میداد.`
 ]
