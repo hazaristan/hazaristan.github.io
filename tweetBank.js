@@ -1,343 +1,119 @@
 let english = [
-  `Amnesty International: 
-Taleban forces began to arrest Hazara people and summarily execute them when they recaptured Yakaolang on 7 January 2001.`
-  , `Amnesty International:
-Talibanstyrkor började arrestera Hazara-folk och avrätta dem summariskt när de återerövrade Yakaolang den 7 januari 2001.`
-  , `Amnesty International: 
-For several days Taleban forces massacred over 300 unarmed men and a number of civilian women and children in Yakaolang. The victims were either summarily executed or
-deliberately killed.`
-  , `Amnesty International:
-Under flera dagar massakrerade talibanstyrkorna över 300 obeväpnade män och ett antal civila kvinnor och barn i Yakaolang. Offren avrättades antingen summariskt eller
-avsiktligt dödad.`
-  , `Amnesty International:
-After their most recent capture of Yakaolang, the Taleban also reportedly destroyed homes and orchards and looted food stuff.`
-  , `Amnesty International:
-Taleban forces in Yakaolang began to arrest people in the street and from their homes and then execute them.`
-  , `Amnesty International:
-Talibanstyrkor i Yakaolang började arrestera människor på gatan och från deras hem och sedan avrättade dem.`
-  , `Amnesty International:
-Taleban forces in Yakaolang, 
-First they rounded up people in the streets. They then went from house to house and arrested the men of the families. Nothing could stop them, and they did not spare any of the houses.`
-  , `Amnesty International:
-Talibanstyrkor i Yakaolang,
-Först samlade de människor på gatorna. Sedan gick dem från hus till hus och arresterade alla män. Ingenting kunde stoppa dem, och de skonade inte en enda man. Sedan avrättade dem.`
-  , `The Taleban began to hit the woman brutally with their rifle butts. She died. They took away the son and shot him dead. A sad story from Yakaolang`
-  , `Amnesty International:
-In Yakaolang when Taliban arrested the people,they tied their hands behind their back and took them away to areas behind Bazar Kona and fired at them.They executed a lot of people.We believe they killed more than 300.`
-  , `Amnesty International:
-I Yakaolang när talibanerna arresterade folket, sedan binder fast deras händer på ryggen och tog dem bort till områden bakom Bazar Kona och sköt de till död. Vi tror att de avrättade mer än 300 personer.`
-  , `All testimonies obtained by Amnesty International contain similar accounts of arrest and execution of civilians in Yakaolang district of Bamiyan province.`
-  , `The organization has so far obtained the particulars of over 170 of the victims, but the actual number of those massacred is believed to be over 300.`
-  , `Amnesty International:
-According to this information, victims in Yakaolang included farmers, teachers, labourers, shopkeepers, a doctor, carpenters, office workers, a religious leader, religious students, human rights activists, and bakers.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 80 people from Dara Ali, 50 from Bazar Nayak,47 including seven internally displaced persons from Kata Khana,34 from Bed Mushkin.`
-  , `17 from Kashkak, 12 from Mandik,10 from Kutal Sorkhak,7 from Gonbadi,5from Feruz Bahar,4 from Sarasiab, and 1 from Chashma Shirin.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 80 Hazarer from Dara Ali.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 50 Hazarer from Bazar Nayak.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 34 Hazarer from Bed Mushkin.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 17 Hazarer from Kashkak.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 12 Hazarer from Mandik.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 10 Hazarer from Kutal Sorkhak.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 7 Hazarer from Gonbadi.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 5 Hazarer from Feruz Bahar.`
-  , `Amnesty International:
-Victims in Yakaolang include at least 4 Hazarer from Sarasiab.`
-  , `Amnesty International:
-Victims in Yakaolang include at least a Hazara from Chashma shirin .`
-  , `Amnesty International:
-Victims in Yakaolang included male villagers between the ages of 20 and 55, youths of 18 and 19 years old, children between the ages of 6 and 14.`
-  , `Eyewitnesses told Amnesty International: 
-In one instance, some 73 women and children and elderly men who had taken shelter in a mosque were killed as the Taleban shelled Fatematuzahra mosque in the Kata Khana area of Yakaolang.`
-  , `Taleban leader Mullah Mohammad Omar not only denied that the massacres had occurred but banned journalists from visiting Yakaolang.`
-  , `Mullah Omar was quoted in the international media as saying: “I am not allowing them to visit Yakaolang because their reports are not fair. “They are biassed people having a hostile behaviour. That is why I do not allow them [into the area].”`
-  , `The Taliban’s denial of responsibility for the Yakaolang massacre, and its failure to hold
-its commanders accountable for these and other abuses against civilians by its forces, make it
-critical that the U.N. itself investigate both cases.`
-  , `Upon reaching the district center, the Taliban organized eleven search parties. They were
-each allocated a sector of central Yakaolang and moved from house to house within their
-respective sectors, rounding up male occupants.`
-  , `On January 9, elders of Kata Khana gathered to meet with the Taliban. The Taliban arrested the entire group and killed everyone except two neighborhood leaders.`
-  , `For several days Taliban forces massacred over 300 unarmed men and a number of civilian women and children. The victims were either summarily executed or deliberately killed in Yakaolang.`
-  , `After their most recent capture of Yakaolang, the Taleban also reportedly destroyed homes and orchards and looted food stuff. An eyewitness told Amnesty International.`
-  , `In January 2001, the UN Secretary General, Kofi Annan, deplored the killings in Yakaolang and demanded that the Taleban take immediate steps to control their forces.`
-  , `Amnesty International also condemned the massacre and called once again on the international community to set up an international community with a clearly demonstrated independent, impartial and competent structure to investigate the massacres.`
-  , `Taliban leader Mullah Omar not only denied that the massacres had occurred but banned journalists from visiting Yakaolang. He was quoted in the international media as saying: I am not allowing them to visit Yakaolang because their reports are not fair`
-  , `It was clear that Taliban wanted to destroy our food. Why else should they burn our crops, set fire on our homes and loot our grains? Yakaolang`
-  , `Amnesty International:
-Efter Talibans senaste fångst av Yakaolang ska talibanerna också ha förstört hem och fruktträdgårdar och plundrat mat.`
-  , `A witness who visited Yakaolang weeks after the incident inspected one of the mass graves at Bed Mushkin village, in which 26 bodies, including a 17 old boy, much of whose skin had been removed either prior to or after his death.`
-  , `The Taliban detained about 300 civilian adult males, including staff members of local humanitarian organizations, who were herded to assembly points in the center of the district and then shot by firing squad in public view`
-  , `Amnesty International:
-People in Kata Khana ran to the mosque for shelter, but they were wrong!Taleban guards deliberately firing two rockets at the mosque where some 73 women,children and elderly men had taken shelter.`
-  , `The Yakawlang Massacre was a brutal attack on the Hazara people in Afghanistan, resulting in the killing of hundreds of civilians.`
-  , `The Taliban's attack on Yakawlang is a tragic reminder of the violence and persecution faced by minority communities in Afghanistan.`
-  , `The Yakawlang Massacre was a clear example of ethnic cleansing and genocide against the Hazara people in Afghanistan.`
-  , `We must never forget the atrocities committed during the Yakawlang Massacre, and work to ensure justice for the victims and their families.`
-  , `The Taliban's brutality against the Hazara community in Yakawlang was a violation of basic human rights.`
-  , `The Yakawlang Massacre is a tragedy that should serve as a lesson to the world about the importance of protecting minority communities.`
-  , `The Mirzaolang Massacre was a brutal attack on the Hazara people in Afghanistan, resulting in the killing of hundreds of civilians.`
-  , `The Taliban's attack on Mirzaolang is a tragic reminder of the violence and persecution faced by minority communities in Afghanistan.`
-  , `The Mirzaolang Massacre was a clear example of ethnic cleansing and genocide against the Hazara people in Afghanistan.`
-  , `We must never forget the atrocities committed during the Yakawlang Massacre, and work to ensure justice for the victims and their families.`
-  , `The Taliban's brutality against the Hazara community in Yakawlang was a violation of basic human rights.`
-  , `The Yakawlang Massacre is a tragedy that should serve as a lesson to the world about the importance of protecting minority communities.`
-  , `The Yakawlang Massacre is a stain on humanity that cannot be forgotten.`
-  , `The Mirzaolang Massacre is a stain on humanity that cannot be forgotten.`
-  , `The victims of the Yakawlang Massacre deserve justice and accountability for the atrocities committed against them.`
-  , `The victims of the Mirzaolang Massacre deserve justice and accountability for the atrocities committed against them.`
-  , `The Yakawlang Massacre was a heinous crime against the Hazara people and a violation of international law.`
-  , `The Mirzaolang Massacre was a heinous crime against the Hazara people and a violation of international law.`
-  , `The Yakawlang Massacre was a dark moment in the history of Afghanistan, and we must strive to prevent such tragedies from happening again.`
-  , `The Mirzaolang Massacre was a dark moment in the history of Afghanistan, and we must strive to prevent such tragedies from happening again.`
-  , `The Yakawlang Massacre is a reminder of the dangers of extremism and the need to promote tolerance and understanding.`
-  , `The Mirzaolang Massacre is a reminder of the dangers of extremism and the need to promote tolerance and understanding.`
-  , `The survivors of the Yakawlang Massacre deserve our support and solidarity.`
-  , `The survivors of the Mirzaolang Massacre deserve our support and solidarity.`
-  , `The world must not forget the Yakawlang Massacre and the suffering of the Hazara people.`
-  , `The world must not forget the Mirzaolang Massacre and the suffering of the Hazara people.`
-  , `The Yakawlang Massacre was a tragic event that highlights the need for peace and stability in Afghanistan.`
-  , `The Mirzaolang Massacre was a tragic event that highlights the need for peace and stability in Afghanistan.`
-  , `The victims of the Yakawlang Massacre will always be remembered and honored.`
-  , `The victims of the Mirzaolang Massacre will always be remembered and honored.`
-  , `The Yakawlang Massacre is a painful reminder of the injustices faced by minority communities in Afghanistan.`
-  , `The Mirzaolang Massacre is a painful reminder of the injustices faced by minority communities in Afghanistan.`
-  , `The Taliban's attack on Yakawlang was a brutal act of violence that cannot be justified under any circumstances.`
-  , `The Yakawlang Massacre was a tragedy that should unite us in our efforts to promote peace and reconciliation in Afghanistan.`
-  , `The world must stand with the Hazara people and support their struggle for justice and dignity.`
-  , `The Yakawlang Massacre was a horrific event that underscores the need for greater protection of human rights in Afghanistan.`
-  , `The Yakawlang Massacre was a crime against humanity that demands accountability and justice.`
-  , `The world must condemn the Yakawlang Massacre and stand in solidarity with the Hazara people.`
-  , `According to UNAMA annual report (2017), there were 8 attacks carried out against Hazars which Mirza Wulang massacre was the most catastrophic one. This attack caused 38 casualties (36 deaths and 2 injured).`
-  , `The survivors of the Yakawlang Massacre are heroes who have endured unimaginable pain and suffering.`
-  , `The Yakawlang Massacre was a horrific act of violence that reminds us of the importance of promoting peace and tolerance.`
-  , `The victims of the Yakawlang Massacre deserve our compassion and solidarity.
-The Yakawlang Massacre is a reminder that violence and extremism only bring suffering and pain.`
-  , `The Hazara community in Yakawlang suffered a great loss during the massacre, and we must remember and honor their memory.`
-  , `The Yakawlang Massacre was a crime against humanity that demands accountability and justice.`
-  , `The world must condemn the Yakawlang Massacre and stand in solidarity with the Hazara people.`
-  , `The survivors of the Yakawlang Massacre are heroes who have endured unimaginable pain and suffering.`
-  , `The Yakawlang Massacre was a horrific act of violence that reminds us of the importance of promoting peace and tolerance.`
-  , `The victims of the Yakawlang Massacre will always be remembered for their bravery and resilience.`
-  , `The Yakawlang Massacre was a tragic event that underscores the need for greater protection of human rights in conflict zones.`
-  , `The Hazara people in Yakawlang suffered a great loss during the massacre, and their memory should be honored and respected.`
-  , `In August 1998, the Taliban committed arguably the worst recorded ethnic massacre in Afghanistan’s recent history in Mazar-e Sharif, Balkh province, by methodically executing between 2,000 to 8,000 Hazara civilians`
+  `Mass graves of Hazaras killed during the massacre were later found in nearby Jaghalkani-i-Takhta Pul, Mazar-e Sharif Afghanistan (Aug 8, 1998) and Taliban timeline.`
+,`Hazara were among those singled out for persecution by Taliban due to their adherence to the Shi'a sect of Islam.The Taliban as followers of a strict conservative Sunni sect considered Shi'a to be infidels & sought to impose their religious beliefs on Hazara`
+,`During their search operations in  -i-Sharif, the Taliban ordered some residents to prove that they were not Shi'a by reciting Sunni prayers. This religious test was used to identify and target members of the Hazara community.`
+,`In Mazar i Sharif the Taliban were meticulous in identifying members of various ethnic groups during their operations. Non-Hazaras were often released, provided someone vouched for them.`
+,`On Aug. 8, the Taliban including militant Muslims from neighboring Pakistan methodically executed between 2,000 and 5,000 civilians in one of the deadliest mass killings of civilians in two decades of warfare in Afghanistan. By Kenneth Cooper reported.`
+,`Taliban militiamen searched house to house for males of fighting age who belonged to the Hazara ethnic minority. Hazaras were gunned down in front of their families or had their throats slit in the same way Muslims slaughter goats for holiday feasts.`
+,`Sketchy reports of the slaughter were circulated at the time, but the full extent and the systematic character of the mass murder there have only become known in the months since, as human rights investigators have interviewed survivors.`
+,`William Maley said that the Mazar-e Sharif killing was "striking in its viciousness". "What we saw in August was not civilians caught in the cross-fire between combatants, but an orgy of killing driven by racial and religious prejudice,"`
+,`"It didn't matter whether they were small children, women, men or old men. They were just shooting at people," said a Hazara woman now living in Quetta, a border city in Pakistan where thousands of other refugees from Mazar-e Sharif have made their way.`
+,`After a few hours, the shooting subsided. Blood stained the walls of shops and residential compounds. For at least three days, bodies lay where they fell on the orders of the Taliban commander who took charge of the city, witnesses said.`
+,`Officially, the Taliban regime based in Kabul says none of it happened, although Taliban officials have barred human rights investigators and journalists from Mazar-e Sharif.`
+,`The Taliban denounced the report of a U.N. human rights investigator as "vast propaganda," maintaining that its forces had killed only combatants, confiscated firearms from civilians and temporarily evacuated some residents.`
+,`In der nordafghanischen Stadt hatten die Taliban 1998 ein schweres Massaker an der Zivilbevölkerung begangen. Vor allem die Hazaras hat deshalb grosse Angst. Andreas Babst reported.`
+,`Die Taliban fuhren mit ihren Pick-ups durch Mazars Strassen und schossen auf alles, was sich bewegte.`
+,`Die UN schätzte später, dass die Taliban 6000 Personen getötet hatten. Aber es war kein unabhängiger Beobachter vor Ort, um genau zu zählen.`
+,`Der neue Verantwortliche für Presse und Kultur der Provinz Balkh und seine Mitarbeiter in seinem Büro in Mazar-e Sharif.`
+,`An August massacre of civilians by Taliban troops in Mazar-i Sharif is one of the worst atrocities of Afghanistan's long civil war, Human Rights Watch said in a new report released today. New York Times.`
+,`In a very brutal war, this is a particularly brutal episode," said Patricia Gossman, senior researcher of Human Rights Watch "We are talking about the systematic execution of perhaps 2,000 civilians, in large part because of their ethnics`
+,`During these days of terror in Mazar, the Taliban governor, Mulla Manon Niazi, delivered many speeches inciting violence against Hazaras and accusing them of killing Taliban troops, including prisoners, in a 1997 battle.`
+,`Most of the prisoners were transported in large container trucks capable of holding 100 to 150 people. In two known instances, nearly all of the men suffocated or died of heat stroke inside the closed metal containers.`
+,`Taliban troops also killed civilians in aerial bombardments and rocket attacks on panicked citizens fleeing southward out of the city, toward the Alborz mountains.`
+,`On August 8, 1998, Taliban militia forces captured the city of Mazar-i Sharif in northwest Afghanistan, the only major city controlled by the United Front, the coalition of forces opposed to the Taliban.`
+,`The Hazaras, a Persian-speaking Shi’a ethnic group, were particularly targeted, in part because of their religious identity.`
+,`During the house-to-house searches, scores and perhaps hundreds of Hazara men and boys were summarily executed, apparently to ensure that they would be unable to mount any resistance to the Taliban.`
+,`Human Rights Watch is also concerned by persistent reports that women and girls, particularly in certain Hazara neighborhoods of Mazar-i Sharif, were raped and abducted during the Taliban takeover of the city.`
+,`The Taliban methodically executed between 2,000 and 8,000 Hazara civilians. Mehdi Hakimi. https://t.co/61XUa1zs6y  `
+,`Searching house to house, the Taliban identified Hazaras and proceeded to slit their throats in front of their families while executing others by firing squad.`
+,`The massacre of Hazaras was characterized as “an orgy of killing driven by racial and religious prejudice” in a country “teetering on the edge of . . . a genocide.”`
+,`The Taliban tried to conceal the extent of the carnage by, inter alia, barring human rights investigators and journalists from visiting Mazar-e Sharif.`
+,`Die Taliban durchsuchten Haus zu Haus, identifizierten Hazaras und schnitten ihnen vor den Augen ihrer Familien die Kehle durch, während sie andere durch ein Erschießungskommando hinrichteten.`
+,`Operations in Mazar, the Taliban ordered some residents to prove that they were not Shi'a by reciting Sunni prayers.Over a period of several weeks,Niazi made inflammatory speeches against Hazaras in which he ordered them to leave Afg, or risk being killed.`
+,`Human Rights Watch is also concerned by persistent reports that women and girls, particularly in certain Hazara neighborhoods of Mazar-i Sharif, were raped and abducted during the Taliban takeover of the city.`
+,`The U.N. Special Rapporteur on Afghanistan, together with a forensic physician, visited the mass grave sites in December 1997 and recommended in his report to the General Assembly that a thorough investigation of the killings take place.`
+,`In May 1998,the UN High Commissioner for Human Rights sent an exploratory mission to the sites.The team also looked into massacres of Hazara byTaliban in the region of Mazar-e Sharif which took place in September 1997 and around Meimaneh in January 1998`
+,`A witness in Mazar whose testimony is described as"extremely reliable" by aid officials said most of the victims had been shot in the head, the chest and the testicles. Others had been slaughtered in what he called "the halal way-by having their throats slit`
+,`One housewife, after Taliban attacks in Mazar I sharif who has since fled to Pakistan, from said the Taliban entered her house and shot her husband and her two brothers dead. Then they cut the men's throats in front of the woman and her children.`
+,`Mullah Niazi massakern i augusti 1998 i Mazar-e-Sharif, där mer än 6 000 Hazara fick sätta livet till.`
+,`Nyheterna om talibanernas massaker 8 augusti 1998 i Mazar-e-Sharif och Chamtal fick stor spridning. Tre år senare, efter att talibanernas diktaturvälde hade störtats, upptäcktes och dokumenterades många massgravar.`
+,`August 8, 1998,Taliban captured the city of Mazar-i Sharif .Taliban troops killed scores of Hazara in indiscriminate attacks, shooting,in  city street sand markets. Witnesses described it as a killing as the advancing forces shot at anything that moved. `
+,`The victims of the massacre included Four hundreds #Hazara who had sought sanctuary at the Shrine of Hazrat Ali. Despite their efforts to find safety in the holy site, they were ultimately shot dead by the Taliban. `
+,`Mazar-i Sharif in 1998, including indiscriminate shootings and extrajudicial executions of people, mass detentions,abductions and rapes of women. Given that the killings appear to have been carried out in retaliation for the killings of Taliban soldiers.`
+,`Talib had shot in 30 houses, opting to kill them as soon as they opened the door.After killing the men in two homes,He learnt that they were not Hazara but Pashtun.That he had killed people in 28 Hazara family seemed not to cause him any concern at all. `
+,`The Mazar-i-Sharif massacre was one of the worst incidents in the Afghanistan Civil War, and it highlighted the need for an end to the conflict. `
+,`The mazar sharif massacre did not receive much global attention or garner much official outrage at the time, UN organizations like Human Rights Watch have since conducted investigations shedding light on the atrocities that occurred`
+,`I juni 1998 erövrade talibanerna staden Mazar i Sharif, efter att ha tagit kontroll över staden genomförde talibanerna en serie av attacker och massakrer mot Hazara folket och andra civila som de ansåg vara sina motståndare.`
+,`I Mazari Sharif också rapporterats om att talibanerna använde lastbilar för att transportera hundratals döda kroppar till massgravar.`
+,`I Mazari Sharif På fyra dagar genomförde talibanerna en massaker som resulterade i tusentals dödsfall. De dödade människor på gatorna, i hus och i moskéer, och rapporter om våldtäkter och #tortyr har också rapporterats.`
+,`De exakta dödstalen från attacken är oklara i Mazar i Sharif men det uppskattas att tusentals människor dödades. Hazare folket drabbades särskilt hårt av attackerna, men också andra etniska grupper och civila drabbades.`
+,`Hazara folkmordet refererar till en serie av attacker och massakrer mot Hazara folket som är en minoritetsgrupp i AFG. Dessa attacker har ägt rum under flera årtionden och har resulterat i tusentals dödsfall och skador i Mazar i Sharif.`
+,`En av de mest ökända attackerna inträffade 1998 när talibanerna erövrade staden Mazar i Sharif. Under en period på några dagar dödade talibanerna tusentals Hazare. Det har också rapporterats on massgravar där tusentals Hazaras har begravts efter attacker.`
+,`Hazara folket har också lidit av diskriminering i samhället under taliban Tilden. Den långvariga konflikten i AFG, och den instabila politiska situationen har gjort det svårt att upprätthålla fred och stabilitet i landet, vilket fortsätter att påverka Hazara`
+,`Attackerna i Mazar 1998 var en av de mest brutala händelserna i den långa konflikten i AFG.Talibanernas avsaknad av respekt för mänskliga rättigheter, deras förakt för minoriteter och deras användning av våld för att upprätthålla sin kontroll över landet.`
+,`Efter att talibanerna intog staden Mazar-i-Sharif år 1998, genomförde de en massaker på civilbefolkningen. Tusentals människor dödades, många av dem var hazarer. Detta var en av de mest brutala händelserna i det afghanska inbördeskriget.`
+,`Efter att talibanerna intog staden Mazar-i-Sharif genomförde de en massaker på civilbefolkningen. Tusentals människor dödades, många av dem var hazarer.`
+,`Detta ledde till att talibanerna blev internationellt isolerade och det infördes sanktioner mot dem. Massakern i Mazar-i-Sharif är fortfarande ett känsligt ämne i Afghanistan och har bidragit till den politiska instabiliteten i landet.`
+,`Många hazarer var också shiamuslimer, vilket gjorde att talibanerna såg dem som en religiös minoritet. Detta ledde till att talibanerna behandlade hazarerna på ett särskilt brutalt sätt.`
+,`Efter massakern i Mazar-i-Sharif 1998, genomförde FN en undersökning som bekräftade att talibanerna hade begått krigsförbrytelser ( enligt mig talibanerna har begått Hazare folkmord och brott mot mänskligheten.`
 ]
 
 let farsi = [
-  `جنگ میرزاولنگ كه  از نيمه شب ١٢ اسد ١٣٩٦ آغاز و تا نیمه شب ١٤ اسد ١٣٩٦ دو روز دوام كرد مردم آن منطقه كه بارها از منطقه شان دفاع كرده و دشمن را عقب رانده بودند اين بار به دليل تهاجم وسيع دشمن از سه جهت و نبود كمك هوايى و زمينى از ناحيه دولت ، شكست خوردند.`
-  , `با تسلط  طالبان و داعش بر منطقه ميرزا ولنگ به رهبرى ملا عطاء الله والى و ملا نادر قوماندان طالبان و غظنفر قوماندان داعش و باقى ماندن تعداد از خانواده هاى بيدفاع جنايات هولناكى به وقوع پيوست`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-یاسین ابوذر، دیگر باشنده میرزااولنگ گفت من تنها بچه‌هایم را نجات دادم. وقتی آن‌ها وارد قریه شدند، بدون تفکیک بر همه شلیک می‌کردند. حتی از شلیک بر کودکان و زنان هم دریغ نمی‌کردند`
-  , `طالبان و داعش در میرزاولنگ برخی را سلاخی کردند، بعضی را سربریدند، شماری دیگر را از کوه‌ها به زیر انداختند و عده‌ای دیگر را به گلوله بستند`
-  , `تروریست های طالب و داعش در تاریخ ۱۴ مرداد ۱۳۹۶ حدود ۱۵۰ خانواده را گروگان گرفته و آنها را یکی پس از دیگری "گوسفند وار" می کشند.`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-در این رویداد آمار کشته‌ها بین ۵۰ تا ۶۰ تن عنوان شده که ۵ زن و ۳ کودک نیز شامل بوده‌است`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-طالبان بر روستا مسلط شده و راه فرار مردم را بسته و شماری از مردم را تیرباران و سه نفر را سر بریده‌اند و تعدادی دیگر هنگام اسارت کشته شده‌اند`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
- نیروهای طالبان و داعش به رهبری شیرمحمد غضنفر از رهبران طالبان که با داعش بیعت کرده با دست کم ۶۰۰ سرباز از سه طرف به سمت روستای میرزاولنگ حمله کردند`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶گفته می‌شود طالبان طی این حمله ۵۲ نفر از ساکنان غیرنظامی این منطقه را به صورت فجیعی کشت`
-  , `حمله به میرزا اولنگ ۱۳۹۶
-کمیسیون مستقل حقوق بشر افغانستان در گزارشی این حمله را مصداقی از جنایت علیه بشریت دانست چونکه این حمله به صورت گسترده و سازمان یافته علیه یک جمعیت غیرنظامی ارتکاب یافته`
-  , `میرزاولنگ قریه‌ای در ولسوالی صیاد ولایت سرپل در کشور افغانستان است فاصله این منطقه تا مرکز ولایت حدود ۱۰ کیلومتر است و از آن به عنوان کمربند دفاعی شهر سرپل نامبرده می‌شود. مردم آن اکثراً  هزاره هستند`
-  , `نیروهای طالبان و داعش روز شنبه ۱۴ مردادماه ۱۳۹۶ با حمله به روستای میرزا ولنگ ۶۰ نفر غیر نظامی را کشته و بیش از ۶۰۰ خانواده از اهالی این منطقه آواره شدند`
-  , `حمله به روستای میرزاولنگ بامداد شنبه ۱۴ مرداد ۱۳۹۶ در ولایت سرپل افغانستان به وقوع پیوست`
-  , `روایت یکاولنگ
-برادرم را طالبان شهید کردند.برادرم سید عوض ۳۵ ساله بود. همراه دیگر مردان از قریه بید مشکین برده شد و جسدش را از پشت حولی ارباب حسن آوردیم.از او یک زن مانده که اولاد ندارد.
-کتاب نیش عقرب`
-  , `۱۳۷۹/۱۰/۱۷  قوای طالبان به سرکردگی ملا عبدالله سرحدی و ملا ستار نیروی های حزب وحدت رو وادار به عقب نشینی از یکاولنگ کردند در این تهاجم نیروهای پاکستانی ، چچینی، عرب و پشتونها نیز دخیل بودند که تعداد زیادی از غیر نظامیان رو قتل و عام کردند.`
-  , `از کلکین منبر بیرون تکیه خانه را میدیدیم،تمام مردان توسط لنگی هایشان دست بسته به طرف مرکز حرکت دادند.در بالای برف نفر های زیادی معلوم میشد،یک دفعه صدای فیر امد می دیدم که نفر ها به هرطرف چپه شد.از جمله دو نفر را دیدم که لباسشان آتش گرفته بود و میسوخت.`
-  , `بعد از سه روز برای شناسایی اجسادمات رفتیم.پسر کاکایم را شناختم در حالی که نصف صورت او نبود و یک پای او در بغل یک شهید دیگر یخ زده و محکم شده بود.ما فقط اجسادمان را شناسایی کردیم قدرت انتقال آنها را نداشتیم.
-کتاب نیش عقرب`
-  , `روایت یکاولنگ 
-یک مادر می گوید طالبان ۴ فرزند او را از قریه دستگیر کرده و دو روز بعد خبر مرگ فرزندانش رو از مردم قریه می شنود .`
-  , `روایت یکاولنگ
-شوهر و پسرانم محمد و باقر که ۱۹ و ۳۰ ساله بودند را دست بسته و پیش چشمانم و روبه روی خانه ام توسط برچه افراد طالبان به قتل رسیدند‌.شوهر و فرزندانم هیچگاه در امورات نظامی مداخله نداشتند.در آن زمان هیچگونه جنگی در منطقه نبود و فقط طالبان بود.`
-  , `یکاولنگ ۱۳۷۹/۱۰/۱۹. یک مادر می گوید دو فرزندم را طالبان با لت کوب و دست بسته به سمت مرکز والسوالی بردند آنها جرمی نداشتند جرم آنها فقط دین و مذهبشان بودند`
-  , `روایت یکاولنک
-تنها زن ها و بچه های خورد سال در قریه مانده بودیم.شب طالبها برای گرفتاری نفر های خلیلی به قریه آمدند.خانه ها را تلاشی میکردند.در خانه طفل ۱ساله داشتم، ۲ نفر داخل خانه شدند.تمام وسایل خانه را شکستند، چند پول نقره بود گرفتند.`
-  , `یکی از انها روی طفلم را باز کرد و تفنگ را بالای شکم آن ماند.به رفیق خود گفت:دزکوم،دزکوم ( فیر کنم؟) نفر دیگر مانع شد.تفنگ را از دست او گرفت و بیرون شد.`
-  , `روایت یکاولنگ
-من مادر ۴ شهیدم روزیکه پسرانم را دستگیر نمودند تا دو روز خبر نداشتیم تا اینکه شنیدیم به شهادت رسیده اند. برای شناسایی و انتقال اجساد به طرف بازار حرکت کردیم و بعد شناسایی به قریه منتقل نمودیم و به کمک اقوام درهُ بند امیر به خاک سپردیم.`
-  , `از کارکنان ملل متحد کسانی کسانی که در یکاولنگ کشته شده عبارت اند از: سید محمد تحصیلی ساکن سر آسیا،سید مهدی ساکن سر آسیا و سید قاسم کارمند موسسه لیپکو
-کتاب نیش عقرب`
-  , `روایت یکاولنگ
-شوهرم دست بسته بود که بند ها را با چاقو پاره نمودم که لباس های پرخون و پاره پاره اش هنوز موجود اس و نیز خودم دیدم که یک جسد سر نداشت او را مثل ادم زنده نشانده بودند.جسد دیگر را دیدم که جاکتش و ریشش سوخته بود.`
-  , `روایت یکاولنگ
-طالبان به خانه ما آمدند،تمام اموالم را پراکنده نموده و فرزندم را با دستان بسته سه نفر نظامی پشتون به طرف مرکز ولسوالی لت و کوب نموده بردند.پس از سه روز جنازه اش را پیدا کردم.فرزندم در مدرسه تحصیل میکرد و هیچ مداخله ی در امور نظامی نداشت.`
-  , `روایت یکاولنگ
-من مادر دو شهید میباشم.پسرانم ۳۰ و ۳۵ ساله بودند.هردو پسرم دکانداری و نانوایی داشتند از پسرانم به تعداد نه نفر عائله بدون سرپرست به جا مانده است که نان آور هم نداریم.پسرانم  هیچ مداخله در امور نظامی نداشتند فقط جرمشان نژاد و مذهب بود.`
-  , `روایت یکاولنگ
-شوهرم محمدحسن 35ساله را نظامیان طالب از علف خانه دستانش را بست و با عده زیادی از مردم به طرف مرکز بردند،اما به مرکز نرسانده در بین راه در قریه جمک تیرباران نموده بودند، از شوهرم تعداد هشت نفر عائله مانده است.`
-  , `روایت یکاولنگ
-داخل اتاق ها شدند.شکستنی ها را اکثرا شکستند،در بین خوراکی ها خاکستر انداختند و تیل و چراغ را در بین روغن و برنج خالی کردند . هرچه جستجو کردند سلاح و مهمات پیدا نکردند.`
-  , `روایت یکاولنگ
-یکدفعه متوجه شدم که پهلوی باغ چند نفر دستهایشان بسته و پسرم و شوهرم دربین دستگیر شدگان اند‌.درد و گیجی خودم وحتی اولادهای خردسالان هم از یادم رفت به طرف پسر جوانم دویدم قریب به دو متری اش رسیده بودم که تفنگ یکی صدا کرد و پسرم روی زمین افتاد.`
-  , `روایت یکاولنگ
-فرزندم را جلوی چشمم شهید کردند ، فرزندم ّسید انور ۲۱ سال داشت و یک ماه و نیم قبل عروسی کرده بود،کسب و کارش دهقانی بود. به ما گفته بود به کوه ها میروم و پنهان میشوم،چون تمام ساحات را طالبان گرفته بودند.`
-  , `روایت یکاولنگ
-خودم دیدم که ساعت۵ صبح طالبان یک موتر نفررا در پشت خانه حسن ارباب آوردندو به دو حصه تقسیم نمودند که هرحصه بیش از سی نفر بود.هردو جمع را به دهنه های دو جوی آب برده به رگبار بستند.یکی ازآنها رادیدم که کالایش به جانش میسوخت و روی زمین میغلتید.`
-  , `روایت یکاولنگ
-در قریه کته خانه ۱۲۰خانواده زندگی میکردند‌.درتهاجم طالبان۲۵ نفر از اهالی این قریه قتل عام شدند.سه روز متوالی طالبان به آزار و چپاول پرداختند‌‌.در نتیجه مردم مجبور شدند در هوای سرد زمستان شبانه کوچ کنند و جاهایی رفته اند که از سرک دور باشند‌.`
-  , `روایت یکاولنگ
-دست های ما را بستند و شروع به لت و کوب نمودند بعضی را بر زمین غلتانده بود و پاهای خودرا بالای شکم و یا گلوی او می‌فشرد. بعضی را آنقدر با کیبل میزد که بکلی از هوش میرفت.`
-  , `ميرزا اولنگ جايي كه تمام وجدان ها را بيدار كرد به جز وجدان هايِ خوابِ سران حكومت .`
-  , `به هر که هرچه داشتی بخشیدی حتی تیر‌ها هم از پیکرت خون نوشیدند.`
-  , `در سینه‌ام دوباره غمی جان گرفته است «امشب دلم به یاد شهیدان گرفته است»`
-  , `بگو از طفل معصومم چه دیدی؟
-که همچون گرگ، جسمش را دریدی`
-  , `جرمي ندارم بيش از اين فقط من هَزاره ام`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-سه گور دسته جمعی در در دره میرزا اولنگ کشف شد. گفته می‌شود تاکنون دست‌کم ۴۲ جسد از این گورهای دست‌جمعی بیرون کشیده شده‌است. ۲۳ جسد در یک گور، ۱۱ جسد در گوری دیگر و ۸ جسد در سومین گور، پیدا شده‌است`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-باشنده میرزا اولنگ گفت: «چهار روز در نزد داعش بودیم. اجساد برخی وابستگان ما بدون کفن دفن شده و یا در هوای آزاد مانده اند.`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-به گفته منابع محلی گفتند در این گورها، جسد سه کودک سربریده شده نیز کشف شده‌است.`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-یاسین ابوذر، دیگر باشنده میرزااولنگ گفت من تنها بچه‌هایم را نجات دادم. وقتی آن‌ها وارد قریه شدند، بدون تفکیک بر همه شلیک می‌کردند. حتی از شلیک بر کودکان و زنان هم دریغ نمی‌کردند`
-  , `طالبان و داعش در میرزاولنگ برخی را سلاخی کردند، بعضی را سربریدند، شماری دیگر را از کوه‌ها به زیر انداختند و عده‌ای دیگر را به گلوله بستند`
-  , `تروریست های طالب و داعش در تاریخ ۱۴ مرداد ۱۳۹۶ حدود ۱۵۰ خانواده را گروگان گرفته و آنها را یکی پس از دیگری "گوسفند وار" می کشند.`
-  , `جنگ میرزاولنگ كه  از نيمه شب ١٢ اسد ١٣٩٦ آغاز و تا نیمه شب ١٤ اسد ١٣٩٦ دو روز دوام كرد مردم آن منطقه كه بارها از منطقه شان دفاع كرده و دشمن را عقب رانده بودند اين بار به دليل تهاجم وسيع دشمن از سه جهت و نبود كمك هوايى و زمينى از ناحيه دولت ، شكست خوردند.`
-  , `با تسلط  طالبان و داعش بر منطقه ميرزا ولنگ به رهبرى ملا عطاء الله والى و ملا نادر قوماندان طالبان و غظنفر قوماندان داعش و باقى ماندن تعداد از خانواده هاى بيدفاع جنايات هولناكى به وقوع پيوست`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶در این رویداد بسیاری از اموال مردم به یغما برده یا نابود شده‌اند. این رویداد در همکاری طالب و داعش صورت گرفته‌است`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-کشتار هدفمند
-والی سرپل ظاهر وحدت دلیل سقوط این روستا را نرسیدن نیروهای کمکی دولتی عنوان کرد، وی اذعان کرد که به مدت ۴ روز از طرف دولت مرکزی درخواست کمک کرده اما هیچ کمکی به آن‌ها نشد`
-  , `یک بار دیگر بازی دار و سر ما
-تابیده خون از آفتاب پیکر ما`
-  , `چقدر می خواهید بکشید؟
-این جنگل بادام
-تمام نخواهد شد
-جهنم تان را خواهد سوزاند!`
-  , `بخوان حدیث کربلای سرپل را
-از سرهای بریده
-از دست های قطع شده
-از زجه زنان
-از کودکان پا برهنه
-
-تاریخ خود را گریه کن`
-  , `فوج خفاشان شیطان پیشه در تزویرتان
-سرپل میریزد از وحشت تکبیرتان خون
-ای دوصد لعنت به ریش مفتی و هر پیرتان`
-  , `گهی در شهر کابل زخم خوردم
-گهی در راه زابل زخــم خوردم
-دوباره باز هم: تکرار، تکرار؛
-عمیقن در سرپل زخـــم خوردم
-بهمن`
-  , `شاید با انگشت های کوچکش داشت روزهای زنده ماندنش را میشمارد .`
-  , `کودکان در میرزاولنگ درخاک وخون ، به خواب رفته اند ، نه هیاهو دارند نه بازی میکنند ، انها فقط به خواب رفته اند.`
-  , `ما بی وطنان در وطن خویش غریبیم
-آنقدر که در پیرهن خویش غریبیم
-آواره های میرزاولنگ`
-  , `هرچه کشت کردیم
-خون درو شد
-میرزاولنگ
-حاصل تیرماه زندگی ات
-چون درخت شاتوتی
-پاشید بر تن دشت`
-  , `دیگر کسی برای کربلا گریه نمی کند
-برای پیکرهای غرق در خونت
-تو عربی بلد نیستی
-به لهجه درد بخوان`
-  , `به ما عادت کرده جهان
-به کودکانمان
-به بیماریهای ناشناخته مان
-به خبرهای ساده
-اندوه مان کوچک شده
-که هیچکس یاری همدردی نیست`
-  , `بخوان مادر
-ضحاک ماردوش بیدار شده
-سرهایمان را فرا میخواند
-اهریمن
-شلاق می زند اسپش را
-تا انتهای جاده ابریشم`
-  , `در زمستان ۱۳۷۹ رژیم طالبان، پس از ویرانی در بامیان، وارد یکاولنگ شدند و بیش از ۳۰۰ غیرنظامی را بدون جرم؛ بطور غیرمسئولانه تیرباران کردند`
-  , `نیروهای طالبان در ۷ جنوری ۲۰۰۱ پیشروی شان را از بامیان، جهت تصرف یکاولنگ شروع می کنند. اکثر قتل عام ها را در ۱۸ این ماه انجام می دهند.سپس خانه ها، دکان ها و دارایی های مردم را به آتش`
-  , `در فاجعه یکاولنگ طالبان برخی قربانیان را در جریان بازرسی به طور انفرادی در خانه های شان به قتل رسانده اند و عده ای را در کنار جاده ها، در جریان گفت و گو تیرباران کرده اند`
-  , `در این فاجعه اکثر تیرباران ها، در قلعه محمدحسن خان، واقع در سرآسیاب وعقب ساختمان دفتر موسسه «آکسفام» و شفاخانه مرکزی یکاولنگ به وقوع پیوسته است`
-  , `در سایت کابل پرس، در مورد فاجعه یکاولنگ نوشته شده است که ساعت هشت و نیم نوزدهم جدی، دسته قاتلان طالبان، ۱۱ نفر را از مندیک گرفتار کرده و در قلعه حسن خان به قتل رساندند.`
-  , `طالبان در تاریخ ۱۹ جدی سال ۱۳۷۹ در کشتاری که در یکاولنگ کردند حدود ۲۲ نفر را از سالُن نمازِ دهکده کته خانه، جاییکه مردم در آن جا پناه برده بودند، دستگیر و تیرباران کردند`
-  , `۱۹ جدی ۱۳۷۹ طالبان دستِ کم ۱۰ نفرکه در خانه احمدارباب؛ یکی از ریش سفیدان منطقه جمع شده بودند را در موسسه آکسفام ساعت ۱۱ همان روز به خاک و خون کشیدند`
-  , `طالبان تعداد افرادی زیادی از مردانی را که در قریه های آخُندان، کته خانه و کشکک، در جریان بازرسی های متداوم در ۸ جنوری ۲۰۰۱ جمع کرده بودند، کشتند`
-  , `در تاریخ ۱۹ جدی۱۳۷۹  در یکاولنگ ۱۸ نفر در کنار جاده ها، توسط طالبان بدون درنگ تیرباران شده اند، در این میان، سه نفر از شهدا، ساکنان بهسود بوده اند که ساعت ۱۱ قبل ازظهر نوزدهم جدی، در نزدیکی مرکز تعاون افغانستان (CCA) در دره علی به قتل رسیدند`
-  , `طالبان در یکاولنگ به تاریخ ۱۹ جدی ۱۳۷۹ نه نفر را در مندیک به قتل رساندند. همچنن دو چوپان را در کوتل سرخک به قتل رساندند. سپس یک رهگذر و یک مرد محلی را در منطقه پای تپه سر بلاق تیرباران کردند`
-  , `طالبان در سال ۱۳۷۹ با هجوم در یکاولنگ، حدود ۳۰۰ نفر از مردان این ولسوالی را به‌شکل بی‌رحمانه‌ای قتل عام کردند و خانه‌ها، دارایی، بازار و زندگی شان را به آتش کشیدند و رفتند`
-  , `حادثه‌ مرگ‌بار یکاولنگ در روز سرد زمستانی (نوزدهم جدی) ۱۳۷۹ توسط گروه طالبان به امر برخی سرکرده‌های آنان در قندهار و تطبیق فرمان، در منطقه (نَیَک) یکاولنگ اتفاق افتاد`
-  , `طالبان در یکاولنگ پسر جوانی به نام سید میرعلی را که وقتی می‌بیند طالبان قصد کشتن پدرش  و کاکایش را دارند، به سوی آنان حمله کرده می‌کوشد جلو این جنایت را بگیرد؛ اماطالبان این مرد را زنده پوست می‌کنند.`
-  , `قتل و عام مردم در یکاولنگ  توسط طالبان 
-۱،تعدادی به صورت دسته‌جمعی به قتل‌گاه منتقل و تیرباران شدند.
-۲، شماری در کنار راه‌ها متوقف و در همان محل با گلوله کشته شدند.
-۳، بعضی در جریان تلاشی (بازرسی)، در خانه‌های شان گرفتار شدند و عجالتاً به قتل رسیدند`
-  , `قتل‌عام هزاره‌ها در یکه‌ولنگ
-طالبان اسیران هزاره را پیش از تیرباران به مقر فرماندهی شـان می آوردند که بیشتر این اسیران مردم
-غیر نظامی بودند.`
-  , `قتل‌عام هزاره‌ها در یکه‌ولنگ
-ملا عبدالستار قوماندان عمومی طالبان در هزارستان بود و یکه‌ولنگ بخشی از
-واقعـه ی جنگ در دسامبر ۲۰۰۰ بود. او در مرکز نیک در جریان قتل عـام حضور داشت.`
-  , `قتل‌عام هزاره‌ها در یکه‌ولنگ
-نقش عبدالستار در جریان قتل عام ها غیرقابل انکار است. معاون اول او ملا
-شهزاده تطبیق کننده ای ایـن قتل عام ها بوده است.`
-  , `قتل‌عام هزاره‌ها در یکه‌ولنگ 
-جریان تلاشی طالبان
-در دره علـى حـداقـل یازده نفر به قتل رسیدند و سـه واقعه‌ی جداگانه ی قتل نیز صورت
-گرفته بود.`
-  , `قتل‌عام هزاره‌ها در یکه‌ولنگ
- تمام این کشتار در محدوده ای یک کیلومتری دفتر ساحوی CCA صورت
-گرفته بودند.`
-  , `یکه‌ولنگ
-شواهد نشان می دهنـد کـه نیروهای خارجی با طالبان در حملات ضربتی و
-قتل عام ها نقش برجسته داشتند. 
-نیروهای خارجی همگام با نیروهای طالبان عملیات
-را اجرا می کردند.`
-  , `قتل‌عام در یکه‌ولنگ 
- نجات یافته گان گروه قاتلان را
-به طور عموم شناسایی کرده اند که آنها پشتونهای جنوبی و پاکستانی بودند.`
-  , `قتل‌عام هزاره‌ها در یکه‌ولنگ 
- گروه قاتلان طالبان،
-تعـداد زيـاد مـردم را در مرکز ولسوالی جمع آوری کرده بودند و دسته جمعی تیرباران
-کرده بودند.`
-  , `قتل‌عام هزاره‌ها در یکه‌ولنگ 
-کشتار و گرفتاری های دسته جمعی
-در این نسل کشی، قربانیان نخست انتخاب شدند و سپس به طور دسته جمعی
-کشته شدند.`
-  , `قتل‌عام هزاره‌ها در یکه‌ولنگ 
-۱۲۷ نفر قربانی این کشتار بودند که ۹۸ نفر آنها از لیست کشته شدگان
-شناسایی شدند.`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-داعش، مسئولیت قتل ۵۴ تن در منطقه میرزا اولنگ در ولایت سرپل را بر عهده گرفته‌است`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
- گروه طالبان بیش از ۵۰ تن از افراد این روستا را تیرباران کرده یا سر بریده‌اند و بیش از ۱۵۰ خانوار را به اسارت گرفته‌اند. اکثر کشته‌شدگان زنان، کودکان و افراد مسن هستن`
-  , `حمله به میرزا اولنگ ۱۴مرداد ۱۳۹۶
-طالبان با تصرف این روستا به تیرباران و سر بریدن مردم این روستا که از قوم هزاره بودند دست زدند و سپس جنازه‌هایشان را درون گورهای دسته جمعی و دره‌ها انداختند`
-  , `روایت یکاولنگ 
-اکثر کشته ها بر اثر فیر کلاشینکوف و پیکا از بین رفته بودند و طالبان در کشتار خود هیچگونه ملاحظه و شناسایی نمی کرد بلکه هرکه به دستشان میامد بدون پرسش و سوال در هر شغل و سن که بود به قتل می‌رساندند. `
-  , `روایت یکاولنگ
-ماچون از مرکز فاصله داریم نمیدانستیم درمرکز چه خبر است تا اینکه روز دوشنبه بعدازظهر تعداد 9 عراده موتر در پشته قرغان آمد در تمام مدت که انها در قرغان بودند صداهای ضجه و ناله زن و بچه ها شنیده میشد به طوری که قریه را یکپارچه ماتم گرفته بود.`
-  , `روایت یکاولنگ
-یک طالب گفت بروید به خانه های خود که خدا شما را عمر دوباره داد وقتی به خانه برگشتیم تمام اموال پراکنده و اشیا قابل حمل را برده بودند چند نفر را که بسیار لت و کوب کرده بودند هنوز هم مریض افتاده اند. هم اینکه تمام اهل قریه فراری شده اند.`
-  , `روایت یکاولنگ
-طالبان دگروال حیات الله را دستگیر و به مرکز میاورد.روزی که طالبان با شکست مواجه میشود او را در همانجا به وضع فجیع به شهادت میرسانند. یک روز پس از شکست طالبان من رفتم و دیدم که حدود 11زخم برچه در سینه داشت وبا گلوله نیز زده بودند.`
-  , `روایت یکاولنگ
-دو نفر تفنگ های خود را عیار نمودند و به طرف نه نفر فیر را شروع کردند که در نتیجه همه نه نفر به زمین افتادند بعد دو نفر جوان دیگر بالای کشته ها رفتند و یک دفعه دیگر همگی را با ضربات پی در پی هدف قرار دادند تا مبادا کسی زنده بماند.`
-  , `روایت یکاولنگ
-بیشترین اموال را که شامل مواشی و گله ها باشد توسط طاب هایی به غارت برده شده است که از کوچی ها بوده و قبلا در ییلاق جاهای یکاولنگ میامده و بسیار خوب مالداران و رمه های آنان را میشناختند.`
-  , `روایت یکاولنگ 
-درسفری که به مناطق رمه داران در خاکدو زردیگا داشتم،گله داران حکایتهایی تکان دهنده از غارت گله های گوسفندان نمودند،مردم این محل به خوبی کوچی های طالب شده را میشناختند.قبلا که میآمدند ناگزیر رفتار غارتگرانه نداشتند اما اینبار طالب آمده بودند.`
-  , `روایت یکاولنگ
-محمد نعیم کوچی یکی از ملک های کوچی ها به وزارت طالبان رسیده بود و کوچی های آشنا به محیط را به هزاره جات اعزام داشته بود.این غارت مواشی به حدی بود که مالداران را در مناطق یکاولنگ به نابودی کشانده و یکی از پایه های اقتصادی را از بین برده بود`
-  , `روایت یکاولنگ
-قریه های بسیاری در یکاولنگ به آتش کشیده شدند؛مناطق:فیروز بهار، سرقول، دره علی، نیک، خم استانه، بخش هایی از تکانه، دهن کنک ، سر کنک و مناطق رازین. تمام این مناطق خانه های مسکونی و علوفه های حیواناتشان،همه به آتش کشیده شدند.`
-  , `عمدتا دو بازارچه جدید و قدیم یکاولنگ که شامل ۴۰۰ باب مغاره و دکان بود، طعنه حریق گردید.
-کتاب نیش عقرب`
-  , `روایت یکاولنگ
-یک موسسه فرانسوی و موسسه بین المللی دیگر در قسمت بازسازی خانه ها و بازار جدید یکاولنگ همکاری نمود اما هیچکدام این کار ها منجر به بازسازی کامل نشده بود.بازار قدیم همچنان سوخته باقی مانده و عبور از آنجا وحشت مرموزی را پیام میداد.`
+  `حدود سه روز قبل از حمله طالبان به مزار شریف حزب وحدت اسلامی بیشتر از دو هزار از جنگجویانش را از بامیان به مزار فرستاد که به گفته مسئولان حزب "بیشتر آنها در درگیری یا در اسارت طالبان کشته شدند"`
+,`پس از تصرف مزار شریف ملا منان نیازی والی طالبان در بلخ در آن زمان "به مردم هزاره که شیعه مذهب بودند، دستور داده بود که سنی شوند یا افغانستان را ترک کنند یا کشته خواهند شد."`
+,`طالبان به قتل‌عام شیعیان در مزار شریف دست زدند و هر شیعه وهزاره را به رگبار می‌بستند. جان، مال و ناموس هزاره را بر خود حلال می‌دانستند و کشتن یک هزارهٔ شیعه را موجب رفتن به جنت اعلام کرده بودند`
+,`در ۸ آگست ۱۹۹۸، نیروهای طالبان وارد شهر مزار شریف شدند. در هفته بعدی، نظامیان طالب دست کم ۲۰۰۰ نفر را کشتند که بیشتر آنها غیر نظامی بودند.`
+,`کشتار مزار شریف ۱۷اسد ۱۳۷۷:
+ طالبان پس از تصرف مزار شریف دست به کشتار غیر نظامیان مردم هزاره زدند که در نتیجه آن 2000 تا 10000 نفر رو به قتل رساندند .`
+,`گروه طالبان در 17 اسد سال 1377هجری خورشیدی، پس از درگیری های خونین وارد شهر مزار شریف؛ مرکز ولایت بلخ در شمال افغانستان شدند. در آن روز طالبان دست به کشتار دسته جمعی مردم بی‌گناه این ولایت از جمله مردم اهل تشیع زدند.`
+,`۱۷ اسد ۱۳۷۷ مزارشریف
+جاده‌ها و بازارها و کوچه‌ها و پس کوچه‌ها را خون و اعضای جسد مُردگان پُر ساخته بود. هیچ‌کس اجازت نداشت تا شش روز مردگان را دفن کند. بوی و تعفن به صورت غیرقابل تحمل همه جا را گرفته بود. گوشت و اعضای بدن انسان طعمهٔ سگ‌های ایله گرد گردید`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+کشتار مزار شریف کشتار وسیعی است که توسط طالبان پس از تصرف مزار شریف در ۱۷ اسد سال ۱۳۷۷ علیه مردم این شهر رخ داد. اکثر قربانیان این کشتار را مردمان هزاره تشکیل می‌دادند`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+قتل عام‌ هدفمند مردم هزاره سالهاست که در حال انجام است
+و این بار در شهر مزار شریف با دست کم ۱۰۰۰۰هزار کشته و زخمی همراه بود`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+طالبان به زن ها تجاوز میکردند  و گلوی کودکان را جلوی چشم مادرشان می بریدند`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+طالبان پس از درگیری خونین، وارد شهر مزار شریف در ولایت بلخ شدند. آنها در جریان چند روز اول صدها غیرنظامی که اکثراً از مردمان هزاره بودند را دستگیر و تیرباران کردند.`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+نیروهای طالبان در سه روز اول، قتل‌عام عمومی مردم هزاره شهر را اعلام کردند`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+طبق ادعای پروژه عدالت افغانستان طالبان دست‌کم ۲۰۰۰ نفر را که اکثرا مردم‌هزاره بودند را کشتند. برخی گزارش‌های دیگر خبر از کشته شدن نزدیک ۱۰ هزار نفر را خبر می‌دهد.`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+این قتل عام از طرف گزارشگران و حقوق‌دانان سازمان عفو بین‌الملل به عنوان بی‌سابقه‌ترین نقض حقوق بشر، کشتار دیوانه‌وار، نسل‌کشی تمام عیار و تصفیه قومی یاد شده‌است.`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+شاهدان مدعی هستند که کشتار به شدتی وسیع بود که در خیابان‌ها، جنازه روی جنازه افتاده بود و تا چند روز، گاری‌ها جنازه‌ها را در مناطق نامعلوم انتقال می‌دادند.`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+در جریان تلاشی خانه به خانه، صدها مرد و کودک هزاره به قتل رسیده‌اند. در برخی قضیه‌ها، افراد مذکر دستگیر شده مورد ضرب و شتم قرار گرفته یا در محل تیرباران می‌شدند و گلوی برخی نیز بریده شد`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+دیدبان حقوق بشر گفته که براساس مصاحبه با نجات یافتگان از این حادثه این نهاد دریافته که در این روز "حدود دو هزار نفر از مردم هزاره توسط طالبان کشته شدند این نهاد "از تجاوز به زنان و دختران" نیز ابراز نگرانی کرده بود.`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+یک شاهد عینی که نمی‌خواهد نامی از او برده شود، می‌گوید که "جنگجویان طالبان از فرودگاه در شرق شهر تا منطقه 'علی چپن ' هر که را در مسیرشان دیده بودند، کشته بودند`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+دیدبان حقوق بشر، از شاهدان عینی نقل قول کرده که سربازان خط مقدم طالبان "دیوانه‌وار" به "هر جنبنده‌ای شلیک" می‌کردند.`
+,`سال 1377قتل عام مردم هزاره در مزار شریف
+شهروند مزار شریف می گوید ما را در داخل کانتینر به سوی شبرغان انتقال می دادند در داخل کانتینر اکثرا از مردم هزاره بودند شامل جوان، نوجوان و محاسن سفید بودند شمار زیادی در داخل کانتینر به اثر نرسیدن هوا در راه جان باختند`
+,`در جست و جوي خانه به خانه صد ها پسر و مرد هزاره ها براي اطمينان عدم مقاومت در مقابل طالبان كشته شدند . طالبان همچنين با حمله به كنسولگري ايران هشت كارمند و يك خبرنگار ايراني را كشتند . ( نسل كشي هزاره ها در مزار شريف )`
+,`بیشتر هَزاره ها كه افراد بازداشت شده، بودند در کامیون‌های کانتینردار یا روکش‌دار به سمت شبرغان، مرکز جوزجان منتقل شدند که افراد داخل کانتیرها، به‌دلیل خفگی، تشنگی یا گرمای زیاد، مردند
+نسل کشی هزاره ها در مزار شریف .`
+,`در پي حمله به مزار شريف توسط طالبان آنها مقبره عبدالعلی مزاری، رهبر حزب وحدت اسلامی افغانستان را تخریب کرده و جنازه‌اش را سنگ‌باران کردند`
+,`در ۱۶ مرداد ۱۳۷۷ش، طالبان بار دیگر به مزار شریف نزدیک شدند. آنان این‌بار توسط پاکستان و عربستان حمایت نظامی شده بودند و نسل كشي هزاره ها را بار ديگر در تاريخ افغانستان رقم زدند `
+,`نسل كشي هَزاره ها در مزار شريف 
+با همکاری پشتون‌های حزب اسلامی افغانستان به رهبری گلبدین حکمتیار، حدود دوهزار مرد هَزاره که از هزارستان به آنجا اعزام شده بودند، توسط طالبان غافلگیر و قتل‌عام شدند.`
+,`روز اول با ورود طالبان به شهر، آنان به اهالی شهر حمله کردند ولی از روز دوم، سیاست طالبان بر کشتن مردمان هزاره در مزار شريف متمرکز شد.`
+,`انگيزه حمله به مزار شريف چه بود ؟
+پس از تصرف کابل توسط طالبان در مهر-میزان ۱۳۷۵ش ، مزار شریف به پایگاه اصلی جبهه متحد مردمان هَزاره در مقابل طالبان تبديل شد .`
+,`طالبان بعد كشتار در مزار شريف ، در کابل و هرات، صدها نفر از مردم هزاره را دستگیر، زندانی یا به قتل رساندند. مناطق هزاره‌نشین مرکز افغانستان نیز در محاصره اقتصادی قرار گرفت.`
+,`هزاران هزاره را به زندان مزار شریف بردند. زمانی که آنجا پرشد به داخل کانتینرهایی بردند که از بیرون قفل می‌شد و زندانیان در آنجا خفه می‌شدند.
+کتاب«طالبان، زنان، تجارت مافیا و پروژه عظیم نفت در آسیای مرکزی»`
+,`
+طالبان، تخمینا ۲۰۰۰ تن از هزاره‌ها را به خاطر عقیده شیعی شان در مزار شریف به طور فجیع قتل‌عام کردند. غیرنظامیان در مناطق مسکونی و بازارها در حالی که گلوی آنان بریده شده بود، کشته شدند.
+پروفیسور «فلیپس دینیس»`
+,`ملا نیازی والی بلخ از طریق مساجد اعلان کردند ، شیعان مزار سه راه بیشتر ندارند. یا سنی شوند، یا به کشور ایران بروند و یا کشته خواهند شد تمام حسینیه هزاره‌ها بسته شدند
+کتاب«طالبان، زنان، تجارت مافیا و پروژه عظیم نفت در آسیای مرکزی»`
+,`سخنان ملا منان نیازی
+« هزاره‌ها مسلمان نیستند و ما باید آنان را بکشیم . یا باید مسلمان شوید و یا افغانستان را ترک کنید. »`
+,`دیدبان حقوق بشر در گزارشی گفته است که کشتار شهر مزار شریف توسط طالبان در"انتقام" از کشته شدن دو هزار تن از نیروهای این گروه در ثور ۱۳۷۶ بود که پس از تصرف شهرهای مزار شریف و شبرغان کشته شدند`
 ]
